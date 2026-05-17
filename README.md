@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/luiz199/professional-systems@master/portfolio.html">
+  <a href="https://luiz199.github.io/professional-systems/portfolio.html">
     <img src="https://img.shields.io/badge/Portfolio-Online-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0a0a0a" />
   </a>
   <a href="mailto:contato@datamind.ai">
@@ -115,7 +115,7 @@ const developer = {
         scanline CRT overlay, and fully responsive design.
       </p>
       <p align="center">
-        <a href="https://cdn.jsdelivr.net/gh/luiz199/professional-systems@master/portfolio.html">🔗 Live Demo</a>
+        <a href="https://luiz199.github.io/professional-systems/portfolio.html">🔗 Live Demo</a>
       </p>
     </td>
   </tr>
@@ -173,7 +173,7 @@ const developer = {
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/luiz199/professional-systems@master/portfolio.html">
+  <a href="https://luiz199.github.io/professional-systems/portfolio.html">
     <img src="https://img.shields.io/badge/Portfolio-Online-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0a0a0a" />
   </a>
   <a href="https://github.com/luiz199">
