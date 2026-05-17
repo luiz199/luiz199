@@ -12,9 +12,9 @@ Desenvolvedor full-stack apaixonado por tecnologia, dados e automação. Crio so
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [**RESTAU MASTER PRO**](https://github.com/luiz199/hello-world) | Sistema completo de gestão de restaurante com mapa de mesas, comanda digital e painel admin | HTML5, CSS3, JavaScript, LocalStorage |
-| [**FitManager Pro**](https://github.com/luiz199/hello-world) | Gestão de academia com controle de alunos, financeiro, fichas de treino e catraca virtual | Alpine.js, Tailwind CSS, Lucide Icons |
-| [**DataMind AI**](https://github.com/luiz199/hello-world) | Site SaaS com chat IA inteligente (Ollama + fallback NLP), clima em tempo real e dashboard | Alpine.js, Tailwind CSS, Ollama, Open-Meteo API |
+| [**RESTAU MASTER PRO**](https://github.com/luiz199/professional-systems) | Sistema completo de gestão de restaurante com mapa de mesas, comanda digital e painel admin | HTML5, CSS3, JavaScript, LocalStorage |
+| [**FitManager Pro**](https://github.com/luiz199/professional-systems) | Gestão de academia com controle de alunos, financeiro, fichas de treino e catraca virtual | Alpine.js, Tailwind CSS, Lucide Icons |
+| [**DataMind AI**](https://github.com/luiz199/professional-systems) | Site SaaS com chat IA inteligente (Ollama + fallback NLP), clima em tempo real e dashboard | Alpine.js, Tailwind CSS, Ollama, Open-Meteo API |
 
 ## Stack & Ferramentas
 
