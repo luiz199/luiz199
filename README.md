@@ -168,6 +168,19 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </p>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Contributions&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00CC33&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- Recent activity -->
+<details>
+  <summary><b>📋 Recent Activity</b></summary>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Recent%20Contributions&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00CC33&area=true&hide_border=true&radius=8&days=14" width="100%" alt="Recent Activity" />
+</details>
+
 ---
 
 ## 📫 Connect with Me
