@@ -229,10 +229,10 @@ const developer = {
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=luiz199&show_icons=true&theme=dark&icon_color=00FF41&title_color=00FF41&bg_color=0a0a0a&border_color=00FF4140&hide_border=false&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz199&theme=dark" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz199&layout=compact&theme=dark&title_color=00FF41&bg_color=0a0a0a&border_color=00FF4140&hide_border=false&langs_count=8" width="100%" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz199&theme=dark" width="100%" alt="Languages by Repo" />
     </td>
   </tr>
 </table>
@@ -244,16 +244,16 @@ const developer = {
 <br/>
 
 <pre>
-┌─ STREAK & ACHIEVEMENTS ─────────────────────────────────────────────────────────┐
+┌─ STREAK & COMMIT ACTIVITY ──────────────────────────────────────────────────────┐
 </pre>
 
 <table align="center" width="100%">
   <tr>
-    <td width="55%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz199&theme=dark&background=0a0a0a&border=00FF4140&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=666666" width="100%" alt="GitHub Streak" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luiz199&theme=dark&utcOffset=-3" width="100%" alt="Commit Activity" />
     </td>
-    <td width="45%" align="center" valign="top">
-      <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=2&row=2" width="100%" alt="GitHub Trophies" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz199&theme=dark&background=0a0a0a&border=00FF4140&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=666666" width="100%" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
