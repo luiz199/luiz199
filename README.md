@@ -213,57 +213,86 @@ const developer = {
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+<pre align="center">
+╔══════════════════════════════════════════════════════════════╗
+║              ⌨  GITHUB ANALYTICS DASHBOARD  ⌨                ║
+║           ~ computer science diagnostics ~                   ║
+╚══════════════════════════════════════════════════════════════╝
+</pre>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📈_Overview-0a0a0a?style=for-the-badge" />
-</p>
+<br/>
+
+<pre>
+┌─ PROFILE OVERVIEW ──────────────────────────────────────────────────────────────┐
+</pre>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=luiz199&show_icons=true&theme=dark&icon_color=00FF41&title_color=00FF41&bg_color=0a0a0a&border_color=00FF4140&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="100%" alt="GitHub Stats" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=luiz199&show_icons=true&theme=dark&icon_color=00FF41&title_color=00FF41&bg_color=0a0a0a&border_color=00FF4140&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&text_color=cccccc" width="100%" alt="GitHub Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz199&layout=compact&theme=dark&title_color=00FF41&bg_color=0a0a0a&border_color=00FF4140&hide_border=false&langs_count=10&size_weight=0.5&count_weight=0.5" width="100%" alt="Top Languages" />
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz199&layout=compact&theme=dark&title_color=00FF41&bg_color=0a0a0a&border_color=00FF4140&hide_border=false&langs_count=10&size_weight=0.5&count_weight=0.5&text_color=cccccc" width="100%" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Streaks_&_Achievements-0a0a0a?style=for-the-badge" />
-</p>
+<pre>
+└────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<br/>
+
+<pre>
+┌─ STREAK & ACHIEVEMENTS ─────────────────────────────────────────────────────────┐
+</pre>
 
 <table align="center" width="100%">
   <tr>
-    <td width="60%" align="center">
+    <td width="55%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz199&theme=dark&background=0a0a0a&border=00FF4140&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=666666" width="100%" alt="GitHub Streak" />
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&margin-w=15&column=2&row=2&no-bg=true" width="100%" alt="GitHub Trophies" />
+    <td width="45%" align="center" valign="top">
+      <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=false&no-bg=true&margin-w=10&margin-h=10&column=2&row=2&title=00FF41" width="100%" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📊_Contributions_Overview-0a0a0a?style=for-the-badge" />
-</p>
+<pre>
+└────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
+<br/>
+
+<pre>
+┌─ CONTRIBUTION ANALYSIS ─────────────────────────────────────────────────────────┐
+</pre>
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=luiz199&limit=5&theme=dark&bg_color=0a0a0a&title_color=00FF41&text_color=ffffff&icon_color=00FF41&border_color=00FF4140&combine_all_yearly_contributions=true" width="100%" alt="Contributor Stats" />
+    <td align="center" valign="top">
+      <img src="https://github-contributor-stats.vercel.app/api?username=luiz199&limit=5&theme=dark&bg_color=0a0a0a&title_color=00FF41&text_color=cccccc&icon_color=00FF41&border_color=00FF4140&combine_all_yearly_contributions=true" width="100%" alt="Contributor Stats" />
     </td>
   </tr>
 </table>
 
----
+<pre>
+└────────────────────────────────────────────────────────────────────────────────┘
+</pre>
 
-## 📈 Contribution Activity
+<br/>
+
+<pre>
+┌─ CONTRIBUTION GRAPH ────────────────────────────────────────────────────────────┐
+</pre>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=DataMind%20Development%20Activity&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00CC33&area=true&area_color=00FF4120&hide_border=true&radius=8&grid=true" width="100%" alt="Activity Graph" />
 </p>
+
+<pre>
+└────────────────────────────────────────────────────────────────────────────────┘
+</pre>
 
 ---
 
