@@ -274,7 +274,7 @@ const developer = {
   <a href="https://github.com/luiz199">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0a0a0a" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403">
     <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&color=00FF41" />
   </a>
   <a href="mailto:contato@datamind.ai">
