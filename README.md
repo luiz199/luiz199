@@ -213,12 +213,9 @@ const developer = {
 
 ---
 
-<pre align="center">
-╔══════════════════════════════════════════════════════════════╗
-║              ⌨  GITHUB ANALYTICS DASHBOARD  ⌨                ║
-║           ~ computer science diagnostics ~                   ║
-╚══════════════════════════════════════════════════════════════╝
-</pre>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=500&color=00FF41&center=true&vCenter=true&width=550&lines=GITHUB+ANALYTICS+DASHBOARD;computer+science+diagnostics;stats+%7C+streaks+%7C+contributions" alt="GitHub Analytics Dashboard" />
+</p>
 
 <br/>
 
