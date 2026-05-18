@@ -219,9 +219,9 @@ const developer = {
 
 <br/>
 
-<pre>
-┌─ PROFILE OVERVIEW ──────────────────────────────────────────────────────────────┐
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/📊_Profile_Overview-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00FF41" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -234,15 +234,11 @@ const developer = {
   </tr>
 </table>
 
-<pre>
-└────────────────────────────────────────────────────────────────────────────────┘
-</pre>
-
 <br/>
 
-<pre>
-┌─ STREAK & COMMIT ACTIVITY ──────────────────────────────────────────────────────┐
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Streak_%26_Commit_Activity-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00FF41" />
+</p>
 
 <table align="center" width="100%">
   <tr>
@@ -255,23 +251,17 @@ const developer = {
   </tr>
 </table>
 
-<pre>
-└────────────────────────────────────────────────────────────────────────────────┘
-</pre>
-
 <br/>
 
-<pre>
-┌─ CONTRIBUTION GRAPH ────────────────────────────────────────────────────────────┐
-</pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/📈_Contribution_Activity-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00FF41" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=DataMind%20Development%20Activity&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00CC33&area=true&area_color=00FF4120&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
 </p>
 
-<pre>
-└────────────────────────────────────────────────────────────────────────────────┘
-</pre>
+
 
 ---
 
