@@ -274,6 +274,9 @@ const developer = {
   <a href="https://github.com/luiz199">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0a0a0a" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&color=00FF41" />
+  </a>
   <a href="mailto:contato@datamind.ai">
     <img src="https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a" />
   </a>
@@ -285,11 +288,31 @@ const developer = {
   </a>
 </p>
 
----
+<br/>
+
+## 🌟 Social Proof
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/luiz199?style=for-the-badge&logo=github&color=00FF41&labelColor=0a0a0a&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00FF41&labelColor=0a0a0a&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fluiz199" alt="Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=00FF41&labelColor=0a0a0a&label=Total+Stars&query=%24.total_stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fluiz199" alt="Total Stars" />
   <img src="https://komarev.com/ghpvc/?username=luiz199&color=00FF41&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </p>
+
+<br/>
+
+## 💖 Support
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0a0a0a?style=for-the-badge&logo=buymeacoffee&color=00FF41" />
+  </a>
+  <a href="https://github.com/sponsors/luiz199">
+    <img src="https://img.shields.io/badge/GitHub_Sponsor-0a0a0a?style=for-the-badge&logo=githubsponsors&color=00FF41" />
+  </a>
+</p>
+
+---
 
 <p align="center">
   <sub>⚡ Building solutions that matter — one line of code at a time.</sub>
