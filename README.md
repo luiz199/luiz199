@@ -72,7 +72,12 @@ const developer = {
         and neon glassmorphism design. Built with Next.js 14, TypeScript, Framer Motion.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/luiz199/datamind-weather/ci.yml?style=flat&color=00FF41&label=build" />
+        <span> • </span>
         <a href="https://github.com/luiz199/datamind-weather">🔗 Source Code</a>
+        <span> • </span>
+        <img src="https://img.shields.io/github/stars/luiz199/datamind-weather?style=flat&color=00FF41&label=Stars" />
+        <img src="https://img.shields.io/github/last-commit/luiz199/datamind-weather?style=flat&color=00FF41&label=" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -97,7 +102,11 @@ const developer = {
         futuristic black/neon green NVIDIA-style design.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/luiz199/professional-systems/deploy.yml?style=flat&color=00FF41&label=deploy" />
+        <span> • </span>
         <a href="https://github.com/luiz199/professional-systems">🔗 Source Code</a>
+        <span> • </span>
+        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=00FF41&label=Stars" />
       </p>
     </td>
   </tr>
@@ -123,7 +132,13 @@ const developer = {
         and admin panel with audit logging. <strong>Zero dependencies.</strong>
       </p>
       <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/luiz199/professional-systems/deploy.yml?style=flat&color=00FF41&label=deploy" />
+        <span> • </span>
         <a href="https://github.com/luiz199/professional-systems">🔗 Source Code</a>
+        <span> • </span>
+        <a href="https://htmlpreview.github.io/?https://github.com/luiz199/professional-systems/blob/master/restau-master-pro/index.html">🚀 Live Demo</a>
+        <span> • </span>
+        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=00FF41&label=Stars" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -147,7 +162,13 @@ const developer = {
         with CPF access control, and real-time alerts dashboard.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/luiz199/professional-systems/deploy.yml?style=flat&color=00FF41&label=deploy" />
+        <span> • </span>
         <a href="https://github.com/luiz199/professional-systems">🔗 Source Code</a>
+        <span> • </span>
+        <a href="https://htmlpreview.github.io/?https://github.com/luiz199/professional-systems/blob/master/fitmanager-pro/index.html">🚀 Live Demo</a>
+        <span> • </span>
+        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=00FF41&label=Stars" />
       </p>
     </td>
   </tr>
@@ -173,7 +194,11 @@ const developer = {
         i18n (PT/EN), PWA support, and fully responsive design.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/luiz199/professional-systems/deploy.yml?style=flat&color=00FF41&label=deploy" />
+        <span> • </span>
         <a href="https://luiz199.github.io/professional-systems/portfolio/">🔗 Live Demo</a>
+        <span> • </span>
+        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=00FF41&label=Stars" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -199,9 +224,13 @@ const developer = {
         invoice generation (CNPJ/taxes), and clinic profile settings with CRMV registration.
       </p>
       <p align="center">
+        <img src="https://img.shields.io/github/actions/workflow/status/luiz199/professional-systems/deploy.yml?style=flat&color=00FF41&label=deploy" />
+        <span> • </span>
         <a href="https://github.com/luiz199/professional-systems/tree/master/neovet">🔗 Source Code</a>
         <span> • </span>
         <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/neovet-dashboard.png">📸 Screenshot</a>
+        <span> • </span>
+        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=00FF41&label=Stars" />
       </p>
     </td>
   </tr>
@@ -296,6 +325,22 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=DataMind%20Development%20Activity&bg_color=0a0a0a&color=00FF41&line=00FF41&point=00CC33&area=true&area_color=00FF4120&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
 </p>
 
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆_GitHub_Trophies-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</p>
+
 
 
 ---
@@ -339,7 +384,7 @@ const developer = {
 ## 💖 Support
 
 <p align="center">
-  <a href="#">
+  <a href="https://www.buymeacoffee.com/luiz199">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-0a0a0a?style=for-the-badge&logo=buymeacoffee&color=00FF41" />
   </a>
   <a href="https://github.com/sponsors/luiz199">
