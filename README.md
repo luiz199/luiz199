@@ -157,6 +157,11 @@ const developer = {
         <em>Veterinary Clinic Management SaaS</em>
       </p>
       <p align="center">
+        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/neovet-dashboard.png">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/neovet-dashboard.png" alt="NeoVet Dashboard" width="100%" style="border-radius: 8px; border: 1px solid rgba(16,185,129,0.15);" />
+        </a>
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer" />
