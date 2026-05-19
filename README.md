@@ -152,21 +152,26 @@ const developer = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📸 Screenshot Gallery</h3>
+      <h3 align="center">🐾 NeoVet</h3>
       <p align="center">
-        <em>Real screenshots of all projects</em>
+        <em>Veterinary Clinic Management SaaS</em>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer" />
-        <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer" />
+        <img src="https://img.shields.io/badge/Recharts-22b5bf?style=flat&logo=recharts" />
       </p>
       <p>
-        All project screenshots captured with Puppeteer for realistic portfolio 
-        presentation. Weather forecast with live data, AI chat interface, 
-        restaurant dashboard, and gym management panels.
+        Complete veterinary clinic management system with animated login (vet + pet imagery),
+        real-time dashboard with revenue charts, full CRUD for clients/pets/appointments,
+        medication & inventory control with low-stock alerts, financial module with 
+        invoice generation (CNPJ/taxes), and clinic profile settings with CRMV registration.
       </p>
       <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/tree/master/portfolio/screenshots">🔗 View Screenshots</a>
+        <a href="https://github.com/luiz199/professional-systems/tree/master/neovet">🔗 Source Code</a>
+        <span> • </span>
+        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/neovet-dashboard.png">📸 Screenshot</a>
       </p>
     </td>
   </tr>
