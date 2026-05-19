@@ -56,6 +56,11 @@ const developer = {
         <em>Modern Weather Forecast App</em>
       </p>
       <p align="center">
+        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/datamind-weather.png">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/datamind-weather.png" alt="DataMind Weather" width="100%" style="border-radius: 8px; border: 1px solid rgba(16,185,129,0.15);" />
+        </a>
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
         <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
@@ -74,6 +79,11 @@ const developer = {
       <h3 align="center">🧠 DataMind AI</h3>
       <p align="center">
         <em>SaaS AI Platform</em>
+      </p>
+      <p align="center">
+        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/datamind-ai.png">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/datamind-ai.png" alt="DataMind AI" width="100%" style="border-radius: 8px; border: 1px solid rgba(16,185,129,0.15);" />
+        </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
@@ -98,6 +108,11 @@ const developer = {
         <em>Restaurant Management System</em>
       </p>
       <p align="center">
+        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/restau-master.png">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/restau-master.png" alt="RESTAU MASTER PRO" width="100%" style="border-radius: 8px; border: 1px solid rgba(16,185,129,0.15);" />
+        </a>
+      </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/LocalStorage-FF6F00?style=flat&logo=storage" />
@@ -115,6 +130,11 @@ const developer = {
       <h3 align="center">💪 FitManager Pro</h3>
       <p align="center">
         <em>Gym Management System</em>
+      </p>
+      <p align="center">
+        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/fitmanager.png">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/fitmanager.png" alt="FitManager Pro" width="100%" style="border-radius: 8px; border: 1px solid rgba(16,185,129,0.15);" />
+        </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black" />
@@ -136,6 +156,11 @@ const developer = {
       <h3 align="center">💻 Portfolio CS</h3>
       <p align="center">
         <em>Computer Science Portfolio</em>
+      </p>
+      <p align="center">
+        <a href="https://luiz199.github.io/professional-systems/portfolio/">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/portfolio-cs.png" alt="Portfolio CS" width="100%" style="border-radius: 8px; border: 1px solid rgba(16,185,129,0.15);" />
+        </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black" />
