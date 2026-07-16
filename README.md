@@ -15,25 +15,7 @@
 
 ![skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,figma,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github&perline=8)
 
----
-
-![stats](https://github-readme-stats.vercel.app/api?username=luiz199&show_icons=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B00)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz199&layout=compact&title_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B00&langs_count=8)
-
 ![streak](https://streak-stats.demolab.com?user=luiz199&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888)
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Contribution+Activity&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B0020&hide_border=true&radius=8)
-
----
-
-[![datamind-weather](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-weather&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00)](https://github.com/luiz199/datamind-weather)
-[![aura-ai](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=aura-ai&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00)](https://github.com/luiz199/aura-ai)
-
-[![professional-systems](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=professional-systems&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00)](https://github.com/luiz199/professional-systems)
-[![mimos-personalizados](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=mimos-personalizados&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00)](https://github.com/luiz199/mimos-personalizados)
-
-[![datamind-school-system](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-school-system&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00)](https://github.com/luiz199/datamind-school-system)
-[![vibe-coding-platform](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=vibe-coding-platform&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00)](https://github.com/luiz199/vibe-coding-platform)
 
 ---
 
