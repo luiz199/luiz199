@@ -236,7 +236,7 @@
 </p>
 
 <p align="center">
-  <sub><code>📍 Rio Branco, Acre, Brazil</code> &nbsp;•&nbsp; <code>🎓 B.Sc. Mathematics & Computer Science</code></sub>
+  <sub><code>📍 Rio Branco, Acre, Brazil</code> &nbsp;•&nbsp; <code>🎓 B.Sc. Mathematics &amp; Computer Science</code></sub>
 </p>
 
 <p align="center">
