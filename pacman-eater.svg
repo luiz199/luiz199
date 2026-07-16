@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="130" viewBox="0 0 640 130">
+  <defs>
+    <style>
+      @keyframes movePacman {
+        0% { transform: translateX(-50px); }
+        100% { transform: translateX(690px); }
+      }
+      @keyframes chomp {
+        0%, 100% { transform: rotate(0deg); }
+        25% { transform: rotate(22deg); }
+        50% { transform: rotate(0deg); }
+        75% { transform: rotate(-22deg); }
+      }
+      @keyframes eyeBlink {
+        0%, 90%, 100% { opacity: 0; }
+        91%, 95% { opacity: 1; }
+      }
+      @keyframes textFade {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.4; }
+      }
+      @keyframes eat1 {
+        0%, 14% { opacity: 1; }
+        15%, 100% { opacity: 0; }
+      }
+      @keyframes eat2 {
+        0%, 22% { opacity: 1; }
+        23%, 100% { opacity: 0; }
+      }
+      @keyframes eat3 {
+        0%, 30% { opacity: 1; }
+        31%, 100% { opacity: 0; }
+      }
+      @keyframes eat4 {
+        0%, 38% { opacity: 1; }
+        39%, 100% { opacity: 0; }
+      }
+      @keyframes eat5 {
+        0%, 46% { opacity: 1; }
+        47%, 100% { opacity: 0; }
+      }
+      @keyframes eat6 {
+        0%, 54% { opacity: 1; }
+        55%, 100% { opacity: 0; }
+      }
+      @keyframes eat7 {
+        0%, 62% { opacity: 1; }
+        63%, 100% { opacity: 0; }
+      }
+      @keyframes eat8 {
+        0%, 70% { opacity: 1; }
+        71%, 100% { opacity: 0; }
+      }
+      @keyframes eat9 {
+        0%, 78% { opacity: 1; }
+        79%, 100% { opacity: 0; }
+      }
+      @keyframes eat10 {
+        0%, 86% { opacity: 1; }
+        87%, 100% { opacity: 0; }
+      }
+      @keyframes eat11 {
+        0%, 94% { opacity: 1; }
+        95%, 100% { opacity: 0; }
+      }
+      @keyframes groundMove {
+        0% { transform: translateX(0); }
+        100% { transform: translateX(-40px); }
+      }
+      .pacman-group { animation: movePacman 3.5s linear infinite; }
+      .mouth { animation: chomp 0.25s ease-in-out infinite; transform-origin: 0px 65px; }
+      .eye { animation: eyeBlink 2s ease-in-out infinite; }
+      .text-blink { animation: textFade 2s ease-in-out infinite; }
+      .ground { animation: groundMove 0.5s linear infinite; }
+      .d1 { animation: eat1 3.5s steps(1) infinite; }
+      .d2 { animation: eat2 3.5s steps(1) infinite; }
+      .d3 { animation: eat3 3.5s steps(1) infinite; }
+      .d4 { animation: eat4 3.5s steps(1) infinite; }
+      .d5 { animation: eat5 3.5s steps(1) infinite; }
+      .d6 { animation: eat6 3.5s steps(1) infinite; }
+      .d7 { animation: eat7 3.5s steps(1) infinite; }
+      .d8 { animation: eat8 3.5s steps(1) infinite; }
+      .d9 { animation: eat9 3.5s steps(1) infinite; }
+      .d10 { animation: eat10 3.5s steps(1) infinite; }
+      .d11 { animation: eat11 3.5s steps(1) infinite; }
+    </style>
+  </defs>
+
+  <rect width="640" height="130" fill="#0A0A0A" rx="8"/>
+
+  <g class="ground">
+    <line x1="0" y1="95" x2="680" y2="95" stroke="#222" stroke-width="2"/>
+    <line x1="20" y1="98" x2="30" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="80" y1="98" x2="90" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="140" y1="98" x2="150" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="200" y1="98" x2="210" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="260" y1="98" x2="270" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="320" y1="98" x2="330" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="380" y1="98" x2="390" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="440" y1="98" x2="450" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="500" y1="98" x2="510" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="560" y1="98" x2="570" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+    <line x1="620" y1="98" x2="630" y2="98" stroke="#1A1A1A" stroke-width="1"/>
+  </g>
+
+  <circle class="dot d1" cx="80" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d2" cx="130" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d3" cx="180" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d4" cx="230" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d5" cx="280" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d6" cx="330" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d7" cx="380" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d8" cx="430" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d9" cx="480" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d10" cx="530" cy="65" r="5" fill="#FFB84D"/>
+  <circle class="dot d11" cx="580" cy="65" r="5" fill="#FFB84D"/>
+
+  <circle cx="630" cy="65" r="10" fill="#FFB84D" opacity="0.4"/>
+
+  <g class="pacman-group">
+    <circle cx="0" cy="65" r="20" fill="#FFD700"/>
+    <circle cx="0" cy="65" r="20" fill="#FF6B00"/>
+    <polygon points="0,65 16,45 16,85" fill="#0A0A0A" class="mouth"/>
+    <circle cx="-7" cy="55" r="3.5" fill="#FFF" class="eye"/>
+    <circle cx="-7" cy="55" r="2" fill="#111" class="eye"/>
+  </g>
+
+  <text x="320" y="120" font-family="monospace" font-size="13" fill="#555" text-anchor="middle" class="text-blink">$ system booting... Pac-Man eating dots</text>
+</svg>

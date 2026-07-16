@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:FF6B00,100:0A0A0A&height=200&section=header&text=LUIZ%20HENRIQUE&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Data%20and%20AI%20Engineer%20%7C%20Computer%20Science&descAlignY=52&descAlign=50)
 
-![typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=FF6B00&center=true&vCenter=true&width=850&lines=%E1%97%A7%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2+system+boot...;%E1%97%A7%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2+computer+scientist+online;%E1%97%A7%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2+AI+engineer+connected;%E1%97%A7%E2%80%A2%E2%80%A2%E2%80%A2%E2%80%A2+full-stack+developer+ready;%E1%97%A7%E2%80%A2%E2%80%A2+system+operational;%E1%97%A7+Datamind+AI+ecosystem+live)
+![pacman](https://raw.githubusercontent.com/luiz199/luiz199/master/pacman-eater.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403)
 [![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=FF6B00)](https://github.com/luiz199)
