@@ -113,6 +113,24 @@
 
 <br />
 
+<!--RECENT_ACTIVITY:start-->
+<p align="center">
+  <sub><code>⚡ Recent activity will auto-update here daily via GitHub Action</code></sub>
+</p>
+<!--RECENT_ACTIVITY:end-->
+
+<!--RECENT_ACTIVITY:last_update-->
+<p align="center">
+  <sub><code>🔄 Last updated: loading...</code></sub>
+</p>
+<!--RECENT_ACTIVITY:last_update_end-->
+
+<br />
+
+---
+
+<br />
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake-dark.svg" />
@@ -120,6 +138,16 @@
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake.svg" width="98%" />
   </picture>
 </p>
+
+<br />
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31b7f7cq7oqybewb6zpdvqrdauoe"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b7f7cq7oqybewb6zpdvqrdauoe&cover_image=true&theme=default&show_offline=true&background_color=0A0A0A&interchange=true&bar_color=FF6B00&bar_color_cover=false" width="49%" /></a>
+</p>
+
+<br />
+
+---
 
 <br />
 
