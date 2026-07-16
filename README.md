@@ -16,7 +16,7 @@
 
 ![terminal](https://raw.githubusercontent.com/luiz199/luiz199/master/profile-terminal.svg)
 
-![skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,figma,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github&perline=8)
+![skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,figma,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github,docker,kubernetes,postgres,prisma,redis,graphql,fastapi,aws,linux,bash,tensorflow,pytorch,rust,go,threejs,vite,firebase,jest,c,cpp&perline=12)
 
 ![streak](https://streak-stats.demolab.com?user=luiz199&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888)
 
