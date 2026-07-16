@@ -9,6 +9,9 @@
 
 ![Followers](https://img.shields.io/github/followers/luiz199?style=for-the-badge&color=FF6B00&label=Followers&labelColor=0A0A0A)
 ![Stars](https://img.shields.io/github/stars/luiz199?style=for-the-badge&color=FF6B00&label=Stars&labelColor=0A0A0A)
+![Repos](https://img.shields.io/badge/Repos-7-FF6B00?style=for-the-badge&labelColor=0A0A0A)
+![Activity](https://img.shields.io/github/commit-activity/y/luiz199/luiz199?color=FF6B00&labelColor=0A0A0A&style=for-the-badge&label=Commits)
+![Updated](https://img.shields.io/github/last-commit/luiz199/luiz199?color=FF6B00&labelColor=0A0A0A&style=for-the-badge&label=Updated&logo=github)
 ![Visits](https://komarev.com/ghpvc/?username=luiz199&label=Visits&color=FF6B00&style=for-the-badge&labelColor=0A0A0A)
 
 ![terminal](https://raw.githubusercontent.com/luiz199/luiz199/master/profile-terminal.svg)

@@ -1,0 +1,49 @@
+name: Check Stats Service
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ping github-readme-stats service
+        id: ping
+        run: |
+          status_code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 10 "https://github-readme-stats.vercel.app/api?username=luiz199")
+          echo "status_code=$status_code" >> $GITHUB_OUTPUT
+          echo "pinged at $(date -u)" >> $GITHUB_OUTPUT
+
+      - name: Create issue if service is back
+        if: steps.ping.outputs.status_code == '200'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: ['stats-service']
+            });
+            if (issues.data.length === 0) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: 'github-readme-stats is back online!',
+                body: 'The Vercel stats service is responding again (HTTP 200). Re-enable stats images in README.md:\n- `![stats]`\n- `![langs]`\n- `![graph]`\n- `![repo cards]`\n\nTriggered by check-stats-service workflow.',
+                labels: ['stats-service']
+              });
+            }
+
+      - name: Log status
+        run: |
+          echo "Status: ${{ steps.ping.outputs.status_code }}"
+          if [ "${{ steps.ping.outputs.status_code }}" = "200" ]; then
+            echo "Service is UP - issue created if not exists"
+          else
+            echo "Service still DOWN (${{ steps.ping.outputs.status_code }})"
+          fi
