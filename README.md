@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,framer,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github,workers" />
 </p>
 
 <div align="center">
