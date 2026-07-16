@@ -49,15 +49,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,framer,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github&perline=8" />
 </p>
 
-<p align="center"><sup><code>═══ 🛠️ TECH STACK ═══</code></sup></p>
-
-<br />
-
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
-<br />
-
-<p align="center"><sup><code>═══ 📊 STATISTICS ═══</code></sup></p>
+---
 
 <br />
 
@@ -79,11 +71,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
 <br />
 
-<p align="center"><sup><code>═══ 🏔️ CONTRIBUTIONS ═══</code></sup></p>
+---
 
 <br />
 
@@ -93,17 +83,7 @@
 
 <br />
 
-<p align="center">
-  <sup><code>🏔️ Contribution Calendar — auto-updated daily</code></sup>
-</p>
-
-<br />
-
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
-<br />
-
-<p align="center"><sup><code>═══ 📈 INSIGHTS ═══</code></sup></p>
+---
 
 <br />
 
@@ -117,11 +97,7 @@
 
 <br />
 
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
-<br />
-
-<p align="center"><sup><code>═══ 📦 FEATURED PROJECTS ═══</code></sup></p>
+---
 
 <br />
 
@@ -144,30 +120,21 @@
   <a href="https://github.com/luiz199/github-achievements-academy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=github-achievements-academy&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
 <br />
 
-<p align="center"><sup><code>═══ 📝 BLOG ═══</code></sup></p>
+---
 
 <br />
 
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdev.to%2Fapi%2Farticles%3Fusername%3Dluiz199&query=%24.length&label=Dev.to%20Articles&labelColor=0A0A0A&color=FF6B00&style=for-the-badge" />
   <img src="https://img.shields.io/badge/last%20commit-2026--07--16-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
-</p>
-
-<p align="center">
   <a href="https://dev.to/luiz199"><img src="https://img.shields.io/badge/Read%20My%20Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FF6B00" /></a>
 </p>
 
 <br />
 
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
-<br />
-
-<p align="center"><sup><code>═══ ⚡ RECENT ACTIVITY ═══</code></sup></p>
+---
 
 <br />
 
@@ -183,11 +150,9 @@
 </p>
 <!--RECENT_ACTIVITY:last_update_end-->
 
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
 <br />
 
-<p align="center"><sup><code>═══ 🐍 SNAKE ═══</code></sup></p>
+---
 
 <br />
 
@@ -207,11 +172,7 @@
 
 <br />
 
-<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
-
-<br />
-
-<p align="center"><sup><code>═══ 🌐 CONNECT ═══</code></sup></p>
+---
 
 <br />
 
