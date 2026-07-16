@@ -22,7 +22,14 @@
       }
       @keyframes ghostWobble {
         0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-4px); }
+        50% { transform: translateY(-5px); }
+      }
+      @keyframes ghostFlee {
+        0%, 81% { opacity: 1; transform: scale(1); }
+        83% { opacity: 0; transform: scale(0.3) translateY(-20px); }
+        85%, 91% { opacity: 0; transform: scale(0); }
+        93% { opacity: 1; transform: scale(1) translateY(0); }
+        100% { opacity: 1; transform: scale(1); }
       }
       @keyframes ghostEye {
         0%, 100% { transform: translateX(0); }
@@ -32,6 +39,7 @@
       .mouth { animation: chomp 0.3s ease-in-out infinite; transform-origin: 0px 75px; }
       .eye { animation: eyeBlink 1.5s ease-in-out infinite; }
       .border { animation: pulseBorder 2s ease-in-out infinite; }
+      .ghost-visibility { animation: ghostFlee 3.5s ease-in-out infinite; }
       .ghost-group { animation: ghostWobble 0.8s ease-in-out infinite; }
       .ghost-eye { animation: ghostEye 0.4s ease-in-out infinite; }
 
@@ -310,12 +318,14 @@
     <text x="522" y="80" class="char c18"></text>
   </g>
 
-  <g class="ghost-group">
-    <path d="M555,60 C555,47 568,37 583,37 C598,37 611,47 611,60 L611,90 L603,83 L595,90 L587,83 L579,90 L571,83 L563,90 L555,83 Z" fill="#FF0000"/>
-    <circle cx="574" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
-    <circle cx="592" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
-    <circle cx="575" cy="56" r="2" fill="#000"/>
-    <circle cx="593" cy="56" r="2" fill="#000"/>
+  <g class="ghost-visibility">
+    <g class="ghost-group">
+      <path d="M555,60 C555,47 568,37 583,37 C598,37 611,47 611,60 L611,90 L603,83 L595,90 L587,83 L579,90 L571,83 L563,90 L555,83 Z" fill="#FF0000"/>
+      <circle cx="574" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
+      <circle cx="592" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
+      <circle cx="575" cy="56" r="2" fill="#000"/>
+      <circle cx="593" cy="56" r="2" fill="#000"/>
+    </g>
   </g>
 
   <g class="pacman-group">
