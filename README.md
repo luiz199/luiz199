@@ -104,11 +104,26 @@
   <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
   <a href="https://lattes.cnpq.br/7486657973350349"><img src="https://img.shields.io/badge/LATTES-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" /></a>
   <a href="https://github.com/luiz199"><img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
+  <a href="https://luiz199.github.io/professional-systems/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FF6B00" /></a>
 </p>
 
 <p align="center">
   <sub>
     <code>📍 Rio Branco, Acre, Brazil</code>&nbsp;&nbsp;
-    <code>🎓 B.Sc. Mathematics & Computer Science</code>
+    <code>🎓 B.Sc. Mathematics & Computer Science</code>&nbsp;&nbsp;
+    <code>🌐 luiz199.github.io</code>
   </sub>
 </p>
+
+<br />
+
+---
+
+<br />
+
+<h3 align="center"><code>$ cat recent-activity.log</code></h3>
+
+<br />
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->

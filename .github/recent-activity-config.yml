@@ -1,0 +1,4 @@
+# Recent activity configuration
+settings:
+  limit: 5
+  date_format: "relative"
