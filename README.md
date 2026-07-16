@@ -28,6 +28,7 @@
   <a href="https://github.com/luiz199"><img src="https://img.shields.io/github/stars/luiz199?style=for-the-badge&color=FF6B00&label=Stars&labelColor=0A0A0A" /></a>
   <img src="https://komarev.com/ghpvc/?username=luiz199&label=Visits&color=FF6B00&style=for-the-badge&labelColor=0A0A0A" />
   <a href="https://github.com/luiz199?tab=repositories"><img src="https://img.shields.io/badge/Repos-8-FF6B00?style=for-the-badge&labelColor=0A0A0A" /></a>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Online-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
 <br />
@@ -48,7 +49,15 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,framer,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github&perline=8" />
 </p>
 
----
+<p align="center"><sup><code>═══ 🛠️ TECH STACK ═══</code></sup></p>
+
+<br />
+
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
+<br />
+
+<p align="center"><sup><code>═══ 📊 STATISTICS ═══</code></sup></p>
 
 <br />
 
@@ -63,16 +72,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Contribution+Activity&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B0020&hide_border=true&radius=8" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Contribution+Activity&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B0020&hide_border=true&radius=8" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="98%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
 
 <br />
 
----
+<p align="center"><sup><code>═══ 🏔️ CONTRIBUTIONS ═══</code></sup></p>
 
 <br />
 
@@ -88,12 +99,16 @@
 
 <br />
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
+<br />
+
+<p align="center"><sup><code>═══ 📈 INSIGHTS ═══</code></sup></p>
 
 <br />
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/luiz199?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&lines=1&stargazers=1&reactions=1" width="98%" />
+  <img src="https://metrics.lecoq.io/luiz199?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&lines=1&stargazers=1&reactions=1" width="100%" />
 </p>
 
 <p align="center">
@@ -102,7 +117,11 @@
 
 <br />
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
+<br />
+
+<p align="center"><sup><code>═══ 📦 FEATURED PROJECTS ═══</code></sup></p>
 
 <br />
 
@@ -125,9 +144,11 @@
   <a href="https://github.com/luiz199/github-achievements-academy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=github-achievements-academy&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
 <br />
 
----
+<p align="center"><sup><code>═══ 📝 BLOG ═══</code></sup></p>
 
 <br />
 
@@ -142,7 +163,11 @@
 
 <br />
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
+<br />
+
+<p align="center"><sup><code>═══ ⚡ RECENT ACTIVITY ═══</code></sup></p>
 
 <br />
 
@@ -158,9 +183,11 @@
 </p>
 <!--RECENT_ACTIVITY:last_update_end-->
 
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
 <br />
 
----
+<p align="center"><sup><code>═══ 🐍 SNAKE ═══</code></sup></p>
 
 <br />
 
@@ -168,7 +195,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake.svg" width="98%" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake.svg" width="100%" />
   </picture>
 </p>
 
@@ -180,7 +207,11 @@
 
 <br />
 
----
+<p align="center"><img src="https://raw.githubusercontent.com/luiz199/luiz199/master/divider.svg" width="100%" /></p>
+
+<br />
+
+<p align="center"><sup><code>═══ 🌐 CONNECT ═══</code></sup></p>
 
 <br />
 
