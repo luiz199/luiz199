@@ -1,308 +1,363 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=700&color=FF6B00&center=true&vCenter=true&random=false&width=600&lines=Luiz+Henrique;Data+%26+AI+Engineer;Full-Stack+Developer;Building+Digital+Solutions" alt="Typing SVG" />
-</div>
 
-<br/>
+```text
+
+  ██╗     ██╗   ██╗██╗███████╗    ██╗  ██╗███████╗███╗   ██╗██████╗ ██╗██████╗  ██╗   ██╗███████╗
+  ██║     ██║   ██║██║╚══███╔╝    ██║  ██║██╔════╝████╗  ██║██╔══██╗██║██╔══██╗ ██║   ██║██╔════╝
+  ██║     ██║   ██║██║  ███╔╝     ███████║█████╗  ██╔██╗ ██║██║  ██║██║██████╔╝ ██║   ██║█████╗  
+  ██║     ██║   ██║██║ ███╔╝      ██╔══██║██╔══╝  ██║╚██╗██║██║  ██║██║██╔══██╗ ██║   ██║██╔══╝  
+  ███████╗╚██████╔╝██║███████╗    ██║  ██║███████╗██║ ╚████║██████╔╝██║██║  ██║ ╚██████╔╝███████╗
+  ╚══════╝ ╚═════╝ ╚═╝╚══════╝    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝╚═╝  ╚═╝  ╚═════╝ ╚══════╝
+
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Data%20%26%20AI%20Engineering-FF6B00?style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-FF6B00?style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Location-Rio%20Branco%2C%20AC-FF6B00?style=for-the-badge&labelColor=0a0a0a" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=FF6B00&center=true&vCenter=true&random=false&width=600&height=60&lines=Luiz+Henrique;Data+%26+AI+Engineer;Full-Stack+Developer;Computer+Scientist;Building+Digital+Solutions" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=700&color=FF6B00&center=true&vCenter=true&random=false&width=600&height=60&lines=Luiz+Henrique;Data+%26+AI+Engineer;Full-Stack+Developer;Computer+Scientist;Building+Digital+Solutions" />
+  </picture>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
+  <a href="https://lattes.cnpq.br/7486657973350349"><img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" /></a>
+  <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
+  <a href="mailto:luiz199@example.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+</p>
 
 ---
 
-### ðŸ‘¨â€ðŸ’» About Me
+<br />
 
-```typescript
-const developer = {
-  name: "Luiz Henrique",
-  role: "Data & AI Engineer | Full-Stack Developer",
-  education: [
-    "Mathematics & Computer Science - UNIBF",
-    "MBA in Data Warehouse & BI - UNIBF",
-    "Mathematics Degree - UNOPAR"
-  ],
-  expertise: [
-    "Web Systems Architecture",
-    "Process Automation",
-    "Artificial Intelligence",
-    "Data Analytics & BI"
-  ],
-  currentFocus: "Building Datamind AI ecosystem & intelligent automation solutions",
-  philosophy: "Transform complex problems into elegant digital solutions"
+```c
+/*
+ * ====================================================================
+ *  LUIZ HENRIQUE — PROFILE
+ *  Computer Science | Data & AI Engineering
+ *  ====================================================================
+ *  "Transform complex problems into elegant digital solutions."
+ *  ====================================================================
+ */
+
+typedef struct {
+    char name[32];
+    char role[64];
+    const char *education[4];
+    const char *expertise[8];
+    const char *current_focus;
+    const char *philosophy;
+    int repositories;
+    int stars;
+} Profile;
+
+Profile luiz_henrique = {
+    .name            = "Luiz Henrique",
+    .role            = "Data & AI Engineer | Full-Stack Developer",
+    .education       = {
+        "B.Sc. Mathematics & Computer Science - UNIBF",
+        "MBA in Data Warehouse & BI - UNIBF",
+        "B.Ed. Mathematics - UNOPAR",
+        NULL
+    },
+    .expertise       = {
+        "Web Systems Architecture",
+        "Artificial Intelligence",
+        "Data Analytics & BI",
+        "Process Automation",
+        "Cloud Computing",
+        "Full-Stack Development",
+        "Database Modeling",
+        NULL
+    },
+    .current_focus   = "Building Datamind AI ecosystem & intelligent automation solutions",
+    .philosophy      = "Transform complex problems into elegant digital solutions",
+    .repositories    = 8,
+    .stars           = 13
 };
 ```
 
+<br />
+
 ---
 
-### ðŸš€ Featured Projects
+## Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ðŸŒ¤ï¸ Datamind Weather</h3>
-      <p align="center"><em>Modern Weather Forecast App</em></p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/datamind-weather.png">
-          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/datamind-weather.png" alt="Datamind Weather" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,107,0,0.15);" />
+    <td width="50%">
+      <h3 align="center">🌤️ Datamind Weather</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/datamind-weather" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/datamind-weather.png" alt="Datamind Weather" width="100%" />
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
-        <img src="https://img.shields.io/badge/OpenWeather-EB6E4B?style=flat&logo=openweathermap" />
-      </p>
-      <p>Real-time weather application with 5-day forecast, GPS location detection, city search with history, live digital clock, animated particle background, and neon glassmorphism design. Built with Next.js 14, TypeScript, and Framer Motion.</p>
-      <p align="center">
-        <a href="https://github.com/luiz199/datamind-weather">ðŸ“± Source Code</a> â€¢
-        <img src="https://img.shields.io/github/stars/luiz199/datamind-weather?style=flat&color=FF6B00" />
-      </p>
+        <p>
+          <em>Modern Weather Forecast App</em><br />
+          <sub>Next.js 14 • TypeScript • Tailwind CSS • Framer Motion • OpenWeather API</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/datamind-weather"><strong>📦 Source Code</strong></a>
+          <br />
+          <img src="https://img.shields.io/github/stars/luiz199/datamind-weather?style=flat&color=FF6B00" />
+        </p>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ðŸ¤– Datamind AI</h3>
-      <p align="center"><em>SaaS AI Platform</em></p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/datamind-ai.png">
-          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/datamind-ai.png" alt="Datamind AI" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,107,0,0.15);" />
+    <td width="50%">
+      <h3 align="center">🤖 Aura AI</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/aura-ai" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/datamind-ai.png" alt="Aura AI" width="100%" />
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer" />
-      </p>
-      <p>AI-powered SaaS platform with intelligent chatbot (OpenAI GPT integration), real-time weather forecasting, subscription plans, admin dashboard, and futuristic black/neon green NVIDIA-style design.</p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems">ðŸ“± Source Code</a> â€¢
-        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
-      </p>
+        <p>
+          <em>Intelligent Personal Assistant</em><br />
+          <sub>TypeScript • OpenAI • Natural Language Processing • Automation</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/aura-ai"><strong>📦 Source Code</strong></a>
+        </p>
+      </div>
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ðŸ½ï¸ RESTAU MASTER PRO</h3>
-      <p align="center"><em>Restaurant Management System</em></p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/restau-master.png">
-          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/restau-master.png" alt="RESTAU MASTER PRO" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,107,0,0.15);" />
+    <td width="50%">
+      <h3 align="center">🍽️ RESTAU MASTER PRO</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/professional-systems" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/restau-master.png" alt="RESTAU MASTER PRO" width="100%" />
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/LocalStorage-FF6F00?style=flat&logo=storage" />
-      </p>
-      <p>Complete restaurant management with visual floor plan, digital ordering, real-time dashboard, payment processing (PIX/cash/credit/debit), and admin panel with audit logging. <strong>Zero dependencies.</strong></p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems">ðŸ“± Source Code</a> â€¢
-        <a href="https://htmlpreview.github.io/?https://github.com/luiz199/professional-systems/blob/master/restau-master-pro/index.html">ðŸš€ Live Demo</a> â€¢
-        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
-      </p>
+        <p>
+          <em>Restaurant POS Management</em><br />
+          <sub>HTML5 • JavaScript • LocalStorage • Zero Dependencies</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/professional-systems"><strong>📦 Source Code</strong></a> •
+          <a href="https://htmlpreview.github.io/?https://github.com/luiz199/professional-systems/blob/master/restau-master-pro/index.html"><strong>🚀 Live Demo</strong></a>
+          <br />
+          <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
+        </p>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ðŸ’ª FitManager Pro</h3>
-      <p align="center"><em>Gym Management System</em></p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/fitmanager.png">
-          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/fitmanager.png" alt="FitManager Pro" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,107,0,0.15);" />
+    <td width="50%">
+      <h3 align="center">💪 FitManager Pro</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/professional-systems" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/fitmanager.png" alt="FitManager Pro" width="100%" />
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
-        <img src="https://img.shields.io/badge/Lucide-00b4d8?style=flat&logo=lucide" />
-      </p>
-      <p>Professional gym management with student CRUD, financial control with delinquency tracking, training sheets (A/B/C splits), virtual turnstile with CPF access control, and real-time alerts dashboard.</p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems">ðŸ“± Source Code</a> â€¢
-        <a href="https://htmlpreview.github.io/?https://github.com/luiz199/professional-systems/blob/master/fitmanager-pro/index.html">ðŸš€ Live Demo</a> â€¢
-        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
-      </p>
+        <p>
+          <em>Gym Management System</em><br />
+          <sub>Alpine.js • Tailwind CSS • Lucide • CRUD • Financial Control</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/professional-systems"><strong>📦 Source Code</strong></a> •
+          <a href="https://htmlpreview.github.io/?https://github.com/luiz199/professional-systems/blob/master/fitmanager-pro/index.html"><strong>🚀 Live Demo</strong></a>
+          <br />
+          <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
+        </p>
+      </div>
     </td>
   </tr>
+
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ðŸ’¼ Portfolio CS</h3>
-      <p align="center"><em>Computer Science Portfolio</em></p>
-      <p align="center">
-        <a href="https://luiz199.github.io/professional-systems/portfolio/">
-          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/portfolio-cs.png" alt="Portfolio CS" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,107,0,0.15);" />
+    <td width="50%">
+      <h3 align="center">💼 Portfolio CS</h3>
+      <div align="center">
+        <a href="https://luiz199.github.io/professional-systems/portfolio/" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/portfolio-cs.png" alt="Portfolio CS" width="100%" />
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpine.js&logoColor=black" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
-        <img src="https://img.shields.io/badge/Canvas_API-FF6B00?style=flat" />
-      </p>
-      <p>Professional terminal-themed portfolio with particle network animation, typing effects, animated borders, scanning overlay, dark/light toggle, i18n (PT/EN), PWA support, and fully responsive design.</p>
-      <p align="center">
-        <a href="https://luiz199.github.io/professional-systems/portfolio/">ðŸš€ Live Demo</a> â€¢
-        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
-      </p>
+        <p>
+          <em>Computer Science Portfolio</em><br />
+          <sub>Alpine.js • Tailwind CSS • Canvas API • i18n • PWA</sub>
+          <br /><br />
+          <a href="https://luiz199.github.io/professional-systems/portfolio/"><strong>🚀 Live Demo</strong></a>
+          <br />
+          <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
+        </p>
+      </div>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">ðŸ¥ NeoVet</h3>
-      <p align="center"><em>Veterinary Clinic Management SaaS</em></p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/blob/master/portfolio/screenshots/neovet-dashboard.png">
-          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/neovet-dashboard.png" alt="NeoVet Dashboard" width="100%" style="border-radius: 8px; border: 1px solid rgba(255,107,0,0.15);" />
+    <td width="50%">
+      <h3 align="center">🐾 NeoVet</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/professional-systems/tree/master/neovet" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/neovet-dashboard.png" alt="NeoVet" width="100%" />
         </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer" />
-        <img src="https://img.shields.io/badge/Recharts-22b5bf?style=flat&logo=recharts" />
-      </p>
-      <p>Complete veterinary clinic management system with animated login (vet + pet imagery), real-time dashboard with revenue charts, full CRUD for clients/pets/appointments, medication & inventory control with low-stock alerts, financial module with invoice generation (CNPJ/taxes), and clinic profile settings with CRMV registration.</p>
-      <p align="center">
-        <a href="https://github.com/luiz199/professional-systems/tree/master/neovet">ðŸ“± Source Code</a> â€¢
-        ðŸ“¸ Screenshot â€¢
-        <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
-      </p>
+        <p>
+          <em>Veterinary Clinic Management SaaS</em><br />
+          <sub>Next.js • Tailwind CSS • Framer Motion • Recharts</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/professional-systems/tree/master/neovet"><strong>📦 Source Code</strong></a>
+          <br />
+          <img src="https://img.shields.io/github/stars/luiz199/professional-systems?style=flat&color=FF6B00" />
+        </p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎁 Mimos Personalizados</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/mimos-personalizados" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/mimos.png" alt="Mimos Personalizados" width="100%" />
+        </a>
+        <p>
+          <em>E-commerce Platform</em><br />
+          <sub>Next.js • TypeScript • Tailwind CSS • Framer Motion</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/mimos-personalizados"><strong>📦 Source Code</strong></a>
+          <br />
+          <img src="https://img.shields.io/github/stars/luiz199/mimos-personalizados?style=flat&color=FF6B00" />
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📚 EduPlan Manager</h3>
+      <div align="center">
+        <a href="https://github.com/luiz199/datamind-school-system" target="_blank">
+          <img src="https://github.com/luiz199/professional-systems/raw/master/portfolio/screenshots/eduplan.png" alt="EduPlan Manager" width="100%" />
+        </a>
+        <p>
+          <em>School Lesson Plan Management</em><br />
+          <sub>TypeScript • CRUD • Subject Tracking • Class Scheduling</sub>
+          <br /><br />
+          <a href="https://github.com/luiz199/datamind-school-system"><strong>📦 Source Code</strong></a>
+        </p>
+      </div>
     </td>
   </tr>
 </table>
 
----
-
-### ðŸ› ï¸ Technical Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-0a0a0a?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20%26%20AI-0a0a0a?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tools%20%26%20APIs-0a0a0a?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenWeather-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+<br />
 
 ---
 
-### ðŸ“Š GitHub Analytics
+## 🛠️ Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ðŸ“Š_Profile_Overview-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=FF6B00" />
-</p>
+<details>
+  <summary><strong>📋 Click to expand full stack</strong></summary>
+  <br />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiz199&theme=dark" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiz199&theme=dark" width="100%" alt="Languages by Repo" />
-    </td>
-  </tr>
-</table>
+  ### 🎨 Frontend
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
 
-<br/>
+  ### ⚙️ Backend & AI
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ðŸ“ˆ_Streak_%26_Commit_Activity-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=FF6B00" />
-</p>
+  ### 🗄️ Database & Tools
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenWeather-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </p>
+</details>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiz199&theme=dark&background=0a0a0a&border=FF6B0040&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=666666" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luiz199&theme=dark&utcOffset=-3" width="100%" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ðŸ“¦_Contribution_Activity-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=FF6B00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Datamind%20Development%20Activity&bg_color=0a0a0a&color=FF6B00&line=FF6B00&point=00CC33&area=true&area_color=FF6B0020&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ðŸ†_GitHub_Trophies-0a0a0a?style=for-the-badge&labelColor=0a0a0a&color=FF6B00" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
-</p>
+<br />
 
 ---
 
-### ðŸ¤ Connect With Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://luiz199.github.io/professional-systems/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/📊_GitHub_Statistics-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=FF6B00" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=luiz199&show_icons=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B0040&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz199&layout=compact&title_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B0040&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=luiz199&theme=dark&background=0A0A0A&border=FF6B0040&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=666666" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luiz199&theme=dark&utcOffset=-3" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Datamind%20Development%20Activity&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=00CC33&area=true&area_color=FF6B0020&hide_border=true&radius=8" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="98%" />
+</p>
+
+<br />
+
+---
+
+## 📈 Weekly Coding Stats
+
+```text
+TypeScript      ██████████████████░░░░   78.4 %
+HTML/CSS        ████████░░░░░░░░░░░░░░   12.3 %
+Python          ████░░░░░░░░░░░░░░░░░░    5.8 %
+JavaScript      ██░░░░░░░░░░░░░░░░░░░░    2.1 %
+Other           █░░░░░░░░░░░░░░░░░░░░░    1.4 %
+```
+
+<br />
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/luiz199/github-achievements-academy">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" />
   </a>
-  <a href="https://github.com/luiz199">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0a0a0a" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/luiz199/github-achievements-academy">
+    <img src="https://img.shields.io/badge/View_Achievements_Guide-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" />
   </a>
+</p>
+
+<br />
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403">
-    <img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&color=FF6B00" />
-  </a>
-  <a href="mailto:contato@datamind.ai">
-    <img src="https://img.shields.io/badge/Email-FF6B00?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" />
   </a>
   <a href="https://www.instagram.com/aidatamind">
-    <img src="https://img.shields.io/badge/Instagram-0a0a0a?style=for-the-badge&logo=instagram&color=FF6B00" />
+    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" />
   </a>
   <a href="https://lattes.cnpq.br/7486657973350349">
-    <img src="https://img.shields.io/badge/Lattes-FF6B00?style=for-the-badge&logo=google-scholar&logoColor=black&labelColor=0a0a0a" />
+    <img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" />
   </a>
 </p>
 
-<br/>
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/luiz199?style=for-the-badge&logo=github&color=FF6B00&labelColor=0a0a0a&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=FF6B00&labelColor=0a0a0a&label=Repos&query=$.public_repos&url=https://api.github.com/users/luiz199" alt="Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&color=FF6B00&labelColor=0a0a0a&label=Total+Stars&query=$.total_stars&url=https://api.github-star-counter.workers.dev/user/luiz199" alt="Total Stars" />
-  <img src="https://komarev.com/ghpvc/?username=luiz199&color=FF6B00&style=for-the-badge&label=Profile+Views&labelColor=0a0a0a" alt="Profile views" />
+  <sub>📍 Rio Branco, Acre, Brazil</sub><br />
+  <sub>💡 "First, solve the problem. Then, write the code." — John Johnson</sub>
 </p>
+
+<br />
 
 ---
 
 <p align="center">
-  <sub>âš¡ Building solutions that matter â€” one line of code at a time.</sub>
-  <br/>
-  <sub><strong>Datamind</strong> â€” InteligÃªncia â€¢ InovaÃ§Ã£o â€¢ Impacto</sub>
+  <img src="https://komarev.com/ghpvc/?username=luiz199&color=FF6B00&style=flat-square&label=Profile+Views" />
+  <br />
+  <sub>⚡ Last updated: July 2026</sub>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🔝_Back_to_Top-0A0A0A?style=for-the-badge&color=FF6B00" />
+  </a>
 </p>
