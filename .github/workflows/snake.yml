@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: luiz199
+          outputs: |
+            dist/github-snake.svg?color_snake=FF6B00&color_dots=0A0A0A,1A1A1A,333333,666666,FF6B00
+            dist/github-snake-dark.svg?color_snake=FF6B00&color_dots=0A0A0A,1A1A1A,333333,666666,FF6B00
+            dist/ocean.gif?color_snake=FF6B00&color_dots=0A0A0A,1A1A1A,333333,666666,FF6B00
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output
+          force_orphan: true

@@ -50,6 +50,32 @@
 
 <br />
 
+<h3 align="center"><code>$ echo $CURRENTLY</code></h3>
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔭_Currently_Working_On-Datamind_AI_Ecosystem-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Generative_AI_%26_Cloud-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💬_Ask_Me_About-AI_%7C_Data_%7C_Next.js_%7C_Python-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/⚡_Goal-Build_Scalable_AI_Solutions-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/luiz199?tab=followers">
+    <img src="https://img.shields.io/badge/📫_How_to_Reach_Me-Open_to_Collaborations-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
+  </a>
+</p>
+
+<br />
+
+---
+
+<br />
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luiz199&show_icons=true&count_private=true&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B00&include_all_commits=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz199&layout=compact&title_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B00&langs_count=8" width="49%" />
@@ -60,17 +86,29 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luiz199&theme=dark&utcOffset=-3" width="49%" />
 </p>
 
+<br />
+
+<h3 align="center"><code>$ cat wakatime.log</code></h3>
+
+<br />
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luiz199&custom_title=Contribution+Activity&bg_color=0A0A0A&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B0020&hide_border=true&radius=8" width="98%" />
+  <a href="https://github.com/luiz199">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=luiz199&layout=compact&title_color=FF6B00&text_color=ffffff&bg_color=0A0A0A&border_color=FF6B00&hide_border=false" width="70%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="98%" />
+  <sub><code>📊 Configure WakaTime at wakatime.com to enable live coding stats</code></sub>
 </p>
 
 <br />
 
 ---
+
+<br />
+
+<h3 align="center"><code>$ ls projects/</code></h3>
 
 <br />
 
@@ -99,6 +137,39 @@
 
 <br />
 
+<h3 align="center"><code>$ cat recent-activity.log</code></h3>
+
+<br />
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<br />
+
+---
+
+<br />
+
+<h3 align="center"><code>$ nc -v spotify 80</code></h3>
+
+<br />
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=luiz199&cover_image=true&theme=compact&show_offline=true&background_color=0A0A0A&interchange=true&bar_color=FF6B00&bar_color_cover=true" width="40%" />
+  <br />
+  <sub><code>🎧 Connect Spotify to show now playing</code></sub>
+</p>
+
+<br />
+
+---
+
+<br />
+
+<h3 align="center"><code>$ cat contact.txt</code></h3>
+
+<br />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
   <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
@@ -121,9 +192,22 @@
 
 <br />
 
-<h3 align="center"><code>$ cat recent-activity.log</code></h3>
+<h3 align="center"><code>$ cat github-snake.svg</code></h3>
 
 <br />
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/luiz199/luiz199/output/github-snake.svg" width="98%" />
+  </picture>
+</p>
+
+<br />
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:FF6B00,100:0A0A0A&height=100&section=footer" width="100%" />
+</p>
