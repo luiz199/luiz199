@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="440" viewBox="0 0 640 440">
+  <defs>
+    <style>
+      @keyframes pulse { 0%,100%{stroke:#FF6B00;stroke-width:2;filter:drop-shadow(0 0 6px #FF6B00)} 50%{stroke:#FF9A4A;stroke-width:2.5;filter:drop-shadow(0 0 20px #FF6B00)} }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes scan { 0%{transform:translateY(-440px)} 100%{transform:translateY(440px)} }
+      @keyframes fadeIn { 0%{opacity:0;transform:translateY(8px)} 100%{opacity:1;transform:translateY(0)} }
+      @keyframes matrix { 0%{opacity:0;transform:translateY(-100%)} 10%{opacity:0.15} 90%{opacity:0.15} 100%{opacity:0;transform:translateY(100%)} }
+      @keyframes glowPulse { 0%,100%{opacity:0.08} 50%{opacity:0.15} }
+      .border-pulse { animation: pulse 2s ease-in-out infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .scan-line { animation: scan 4s linear infinite; fill:url(#scanGrad); }
+      .fade-item { animation: fadeIn 0.5s ease-out forwards; opacity:0; }
+      .f1 { animation-delay:0.2s } .f2 { animation-delay:0.4s } .f3 { animation-delay:0.6s }
+      .f4 { animation-delay:0.8s } .f5 { animation-delay:1.0s } .f6 { animation-delay:1.2s }
+      .f7 { animation-delay:1.4s } .f8 { animation-delay:1.6s } .f9 { animation-delay:1.8s }
+      .f10 { animation-delay:2.0s } .f11 { animation-delay:2.2s }
+      .matrix-char { animation: matrix 3s linear infinite; }
+      .glow-bg { animation: glowPulse 3s ease-in-out infinite; }
+      .m1 { animation-delay:0s } .m2 { animation-delay:0.5s } .m3 { animation-delay:1s }
+      .m4 { animation-delay:1.5s } .m5 { animation-delay:2s } .m6 { animation-delay:2.5s }
+      .m7 { animation-delay:0.3s } .m8 { animation-delay:0.8s } .m9 { animation-delay:1.3s }
+      .m10 { animation-delay:1.8s } .m11 { animation-delay:2.3s } .m12 { animation-delay:0.7s }
+    </style>
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#FF6B00" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF6B00"/>
+      <stop offset="100%" stop-color="#FFA500"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="10" y="10" width="620" height="420" rx="10" fill="url(#bgGrad)" class="border-pulse"/>
+
+  <rect x="12" y="12" width="616" height="36" rx="10" fill="#151515"/>
+  <rect x="12" y="36" width="616" height="12" fill="#151515"/>
+
+  <circle cx="34" cy="30" r="6" fill="#FF5F56"/>
+  <circle cx="56" cy="30" r="6" fill="#FFBD2E"/>
+  <circle cx="78" cy="30" r="6" fill="#27C93F"/>
+
+  <text x="60" y="34" font-family="'Courier New',monospace" font-size="11" fill="#444" font-weight="bold">CS-SHELL v2.4.1</text>
+  <text x="320" y="34" font-family="'Courier New',monospace" font-size="12" fill="#555" text-anchor="middle" font-weight="bold">COMPUTER SCIENCE — PROFILE</text>
+  <text x="600" y="34" font-family="'Courier New',monospace" font-size="11" fill="#444" text-anchor="end" font-weight="bold">B.Sc. CS</text>
+
+  <g class="glow-bg">
+    <text x="40"  y="320" font-family="monospace" font-size="8" fill="#FF6B00" class="matrix-char m1">01001010 01101111 01101001 01101110</text>
+    <text x="310" y="280" font-family="monospace" font-size="8" fill="#FF6B00" class="matrix-char m2">01110100 01101000 01100101</text>
+    <text x="100" y="200" font-family="monospace" font-size="7" fill="#FF6B00" class="matrix-char m3">01001101 01100001 01110100 01110010 01101001 01111000</text>
+    <text x="450" y="150" font-family="monospace" font-size="8" fill="#FF6B00" class="matrix-char m4">01100011 01101100 01110101 01100010</text>
+    <text x="200" y="100" font-family="monospace" font-size="7" fill="#FF6B00" class="matrix-char m5">01000011 01010011</text>
+    <text x="500" y="380" font-family="monospace" font-size="7" fill="#FF6B00" class="matrix-char m6">01010011 01111001 01110011 01110100 01100101 01101101</text>
+    <text x="480" y="60" font-family="monospace" font-size="7" fill="#FF6B00" class="matrix-char m7">01001111 01001110 01001100 01001001 01001110 01000101</text>
+    <text x="30" y="150" font-family="monospace" font-size="7" fill="#FF6B00" class="matrix-char m8">01000100 01000001 01010100 01000001</text>
+    <text x="150" y="380" font-family="monospace" font-size="7" fill="#FF6B00" class="matrix-char m9">01001111 00110000 00110001</text>
+    <text x="420" y="240" font-family="monospace" font-size="8" fill="#FF6B00" class="matrix-char m10">01001110 01010000 00100000 01001000 01100001 01110010 01100100</text>
+  </g>
+
+  <text x="30" y="75" font-family="'Courier New',monospace" font-size="13" fill="#FF6B00" class="fade-item f1">$ <tspan fill="#0F0">whoami</tspan></text>
+  <text x="30" y="93" font-family="'Courier New',monospace" font-size="13" fill="#FFF" class="fade-item f1">luiz199</text>
+
+  <text x="30" y="118" font-family="'Courier New',monospace" font-size="13" fill="#FF6B00" class="fade-item f2">$ <tspan fill="#0F0">cat /etc/profile/cs_degree</tspan></text>
+  <text x="30" y="136" font-family="'Courier New',monospace" font-size="13" fill="#FFF" class="fade-item f2">B.Sc. Mathematics &amp; Computer Science</text>
+  <text x="30" y="152" font-family="'Courier New',monospace" font-size="13" fill="#888" class="fade-item f2">├─ Algorithms &amp; Data Structures (O(log n) enthusiast)</text>
+  <text x="30" y="168" font-family="'Courier New',monospace" font-size="13" fill="#888" class="fade-item f2">├─ Theory of Computation &amp; Automata</text>
+  <text x="30" y="184" font-family="'Courier New',monospace" font-size="13" fill="#888" class="fade-item f2">├─ Artificial Intelligence &amp; Machine Learning</text>
+  <text x="30" y="200" font-family="'Courier New',monospace" font-size="13" fill="#888" class="fade-item f2">└─ Distributed Systems &amp; Cloud Computing</text>
+
+  <text x="30" y="228" font-family="'Courier New',monospace" font-size="13" fill="#FF6B00" class="fade-item f5">$ <tspan fill="#0F0">cat /etc/profile/skillset</tspan></text>
+  <text x="30" y="248" font-family="'Courier New',monospace" font-size="13" fill="#FFF" class="fade-item f5">AI/ML · Data Engineering · Full-Stack</text>
+  <text x="30" y="264" font-family="'Courier New',monospace" font-size="13" fill="#FFF" class="fade-item f5">Next.js · React · TypeScript · Python</text>
+  <text x="30" y="280" font-family="'Courier New',monospace" font-size="13" fill="#FFF" class="fade-item f5">NestJS · MongoDB · Tailwind · Cloud</text>
+
+  <text x="30" y="308" font-family="'Courier New',monospace" font-size="13" fill="#FF6B00" class="fade-item f8">$ <tspan fill="#0F0">cat /etc/profile/location</tspan></text>
+  <text x="30" y="326" font-family="'Courier New',monospace" font-size="13" fill="#FFF" class="fade-item f8">📍 Rio Branco, AC, Brazil — UTC-5</text>
+
+  <text x="30" y="354" font-family="'Courier New',monospace" font-size="13" fill="#FF6B00" class="fade-item f10">$ <tspan fill="#0F0">cat /etc/profile/status</tspan></text>
+  <text x="30" y="372" font-family="'Courier New',monospace" font-size="13" fill="#0F0" class="fade-item f10">✅ System operational — Datamind AI Ecosystem</text>
+  <text x="30" y="390" font-family="'Courier New',monospace" font-size="13" fill="#0F0" class="fade-item f10">   Focus: Generative AI &amp; Cloud Architecture</text>
+
+  <text x="30" y="418" font-family="'Courier New',monospace" font-size="13" fill="#FF6B00" class="fade-item f11">$ <tspan fill="#FFF">./cs_profile.sh</tspan><tspan class="cursor" fill="#FFF">█</tspan></text>
+
+  <rect x="12" y="48" width="616" height="382" class="scan-line" rx="0"/>
+</svg>

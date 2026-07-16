@@ -32,21 +32,9 @@
 
 <br />
 
-```text
-╔═══════════════════════════════════════════════╗
-║               SYSTEM PROFILE                  ║
-╠═══════════════════════════════════════════════╣
-║  NAME       Luiz Henrique                     ║
-║  ROLE       Data & AI Engineer                ║
-║  LOCATION   Rio Branco, AC, Brazil            ║
-║  EDUCATION  B.Sc. Math & Computer Science     ║
-║             MBA Data Warehouse & BI           ║
-║             B.Ed. Mathematics                 ║
-║  EXPERTISE  AI · Data Engineering · Cloud    ║
-║             Full-Stack · Automation           ║
-║  FOCUS      Datamind AI Ecosystem             ║
-╚═══════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luiz199/luiz199/master/profile-terminal.svg" width="90%" />
+</p>
 
 <br />
 
