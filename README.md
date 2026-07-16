@@ -57,7 +57,7 @@
 <br />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github,workers&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,framer,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github&perline=8" />
 </p>
 
 ---
