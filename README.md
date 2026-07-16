@@ -131,6 +131,21 @@
 
 <br />
 
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdev.to%2Fapi%2Farticles%3Fusername%3Dluiz199&query=%24.length&label=Dev.to%20Articles&labelColor=0A0A0A&color=FF6B00&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/last%20commit-2026--07--16-FF6B00?style=for-the-badge&labelColor=0A0A0A" />
+</p>
+
+<p align="center">
+  <a href="https://dev.to/luiz199"><img src="https://img.shields.io/badge/Read%20My%20Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FF6B00" /></a>
+</p>
+
+<br />
+
+---
+
+<br />
+
 <!--RECENT_ACTIVITY:start-->
 <p align="center">
   <sub><code>⚡ Recent activity will auto-update here daily via GitHub Action</code></sub>
@@ -171,13 +186,22 @@
 
 <p align="center">
   <a href="mailto:luizhenriquedevsec@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+  <a href="https://discord.gg/luiz199"><img src="https://img.shields.io/badge/Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=FF6B00" /></a>
   <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
   <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
   <a href="https://github.com/luiz199"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
   <a href="https://lattes.cnpq.br/7486657973350349"><img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" /></a>
 </p>
 <p align="center">
+  <a href="https://soundcloud.com/luiz199"><img src="https://img.shields.io/badge/SoundCloud-0A0A0A?style=for-the-badge&logo=soundcloud&logoColor=FF6B00" /></a>
+  <a href="https://youtube.com/@luiz199"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF6B00" /></a>
+  <a href="https://dev.to/luiz199"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=FF6B00" /></a>
+  <a href="https://www.hackerrank.com/luiz199"><img src="https://img.shields.io/badge/HackerRank-0A0A0A?style=for-the-badge&logo=hackerrank&logoColor=FF6B00" /></a>
+  <a href="https://leetcode.com/u/luiz199/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=FF6B00" /></a>
+</p>
+<p align="center">
   <a href="https://www.buymeacoffee.com/luiz199"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0A0A0A?style=for-the-badge&logo=buymeacoffee&logoColor=FF6B00" /></a>
+  <a href="https://github.com/sponsors/luiz199"><img src="https://img.shields.io/badge/Sponsor-0A0A0A?style=for-the-badge&logo=githubsponsors&logoColor=FF6B00" /></a>
 </p>
 
 <p align="center">
