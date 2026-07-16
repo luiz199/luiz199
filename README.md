@@ -1,96 +1,52 @@
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│                    DATA MIND TERMINAL v2.0                       │
-│                         LUIZ HENRIQUE                            │
-│                                                                  │
-│         Computer Science  |  Data & AI Engineering              │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=FF6B00&center=true&vCenter=true&random=false&width=800&height=60&lines=%24+system+boot+initiated...;%24+loading+profile+luiz199;%24+computer+scientist+detected;%24+system+ready.+--+verbose" alt="Terminal Boot Screen" />
-</p>
-
-<br />
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=luiz199&label=PROFILE+VIEWS&color=FF6B00&style=for-the-badge&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/github/followers/luiz199?style=for-the-badge&color=FF6B00&label=FOLLOWERS&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/github/stars/luiz199?style=for-the-badge&color=FF6B00&label=STARS&labelColor=0A0A0A" />
-</p>
-
-<br />
-
-```text
-$ cat about.md
-
-╔════════════════════════════════════╗
-║         SYSTEM INFORMATION         ║
-╠════════════════════════════════════╣
-║  User  : Luiz Henrique             ║
-║  Role  : Data & AI Engineer        ║
-║  Loc   : Rio Branco, AC, Brazil    ║
-║  Focus : Datamind AI Ecosystem     ║
-╠════════════════════════════════════╣
-║  EDUCATION                         ║
-║  ├ B.Sc. Math & CS — UNIBF         ║
-║  ├ MBA DW & BI — UNIBF             ║
-║  └ B.Ed. Mathematics — UNOPAR      ║
-╠════════════════════════════════════╣
-║  EXPERTISE                         ║
-║  ├ AI & Data Engineering           ║
-║  ├ Full-Stack Development          ║
-║  ├ Cloud Architecture              ║
-║  └ Process Automation              ║
-╚════════════════════════════════════╝
-```
-
-<br />
-
----
-
-```text
-$ ls projects/
-```
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/luiz199/datamind-weather"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-weather&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
-  <a href="https://github.com/luiz199/aura-ai"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=aura-ai&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/luiz199/professional-systems"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=professional-systems&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
-  <a href="https://github.com/luiz199/mimos-personalizados"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=mimos-personalizados&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=FF6B00&center=true&vCenter=true&width=900&lines=%24+initializing+system...;%24+connecting+to+GitHub...;%24+computer+scientist+detected;%24+loading+environment...;Data+%26+AI+Engineering+%7C+Full-Stack+Developer;%24+system+ready" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/luiz199/datamind-school-system"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-school-system&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
-  <a href="https://github.com/luiz199/vibe-coding-platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=vibe-coding-platform&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
-</p>
-
-<br />
-
----
-
-```text
-$ neofetch --tech-stack
-```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,framer,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github" />
 </p>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="650" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" />
+</div>
+
+<div align="center">
+<pre>
+┌──────────────────────────────────────────────┐
+│         DATA MIND TERMINAL v2.0              │
+│              LUIZ HENRIQUE                    │
+│    Computer Science | Data & AI Engineering  │
+└──────────────────────────────────────────────┘
+</pre>
+</div>
+
+<br />
+
+<table align="center">
+<tr>
+  <td>
+    <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="350" />
+  </td>
+  <td>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350" />
+  </td>
+</tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF6B00&center=true&vCenter=true&width=1000&lines=%24+init+profile;Loading+luiz199...;%24+load+education;B.Sc.+Math+%26+Computer+Science;%24+load+expertise;AI+%7C+Data+%7C+Full-Stack+%7C+Cloud;%24+load+projects;8+repositories+%7C+13+stars;%24+start;System+ready" />
+</p>
+
 <br />
 
 ---
-
-```text
-$ ./github-stats
-```
 
 <br />
 
@@ -116,9 +72,32 @@ $ ./github-stats
 
 ---
 
-```text
-$ ./contact
-```
+<br />
+
+<p align="center">
+  <a href="https://github.com/luiz199/datamind-weather"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-weather&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+  <a href="https://github.com/luiz199/aura-ai"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=aura-ai&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/luiz199/professional-systems"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=professional-systems&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+  <a href="https://github.com/luiz199/mimos-personalizados"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=mimos-personalizados&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/luiz199/datamind-school-system"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-school-system&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+  <a href="https://github.com/luiz199/vibe-coding-platform"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=vibe-coding-platform&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/luiz199/github-achievements-academy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=github-achievements-academy&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
+</p>
+
+<br />
+
+---
+
+<br />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
@@ -128,24 +107,8 @@ $ ./contact
 </p>
 
 <p align="center">
-  <sub><code>📍 Rio Branco, Acre, Brazil</code>&nbsp;&nbsp;<code>🎓 B.Sc. Mathematics & Computer Science</code></sub>
+  <sub>
+    <code>📍 Rio Branco, Acre, Brazil</code>&nbsp;&nbsp;
+    <code>🎓 B.Sc. Mathematics & Computer Science</code>
+  </sub>
 </p>
-
-<details>
-  <summary><code>📋 more info</code></summary>
-  <br />
-  <p align="center">
-    <a href="https://github.com/luiz199/github-achievements-academy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=github-achievements-academy&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
-  </p>
-</details>
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   "First, solve the problem. Then, write the code."              │
-│   Thank you for visiting!                                        │
-│                                                                  │
-│   © 2026 Luiz Henrique · Datamind AI                             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
