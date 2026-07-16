@@ -89,6 +89,36 @@
 <br />
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/luiz199/luiz199/profile-3d/contributions.svg" width="70%" />
+</p>
+
+<br />
+
+<p align="center">
+  <sup><code>🏔️ Contribution Calendar — auto-updated daily</code></sup>
+</p>
+
+<br />
+
+---
+
+<br />
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/luiz199?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&lines=1&stargazers=1&reactions=1" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=luiz199&label=Visitors&countColor=%23FF6B00&labelStyle=none" width="20%" />
+</p>
+
+<br />
+
+---
+
+<br />
+
+<p align="center">
   <a href="https://github.com/luiz199/datamind-weather"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=datamind-weather&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
   <a href="https://github.com/luiz199/aura-ai"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luiz199&repo=aura-ai&bg_color=0A0A0A&title_color=FF6B00&text_color=ffffff&icon_color=FF6B00&border_color=FF6B00&hide_border=false" width="49%" /></a>
 </p>
@@ -152,10 +182,14 @@
 <br />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403"><img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
-  <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/%F0%9F%93%B1%20Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
-  <a href="https://github.com/luiz199"><img src="https://img.shields.io/badge/%F0%9F%92%BB%20GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
-  <a href="https://lattes.cnpq.br/7486657973350349"><img src="https://img.shields.io/badge/%F0%9F%93%84%20Lattes-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" /></a>
+  <a href="mailto:luizhenriquedevsec@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+  <a href="https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
+  <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
+  <a href="https://github.com/luiz199"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
+  <a href="https://lattes.cnpq.br/7486657973350349"><img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" /></a>
+</p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/luiz199"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-0A0A0A?style=for-the-badge&logo=buymeacoffee&logoColor=FF6B00" /></a>
 </p>
 
 <p align="center">
