@@ -56,6 +56,7 @@
   <a href="https://github.com/luiz199"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
   <a href="https://www.instagram.com/aidatamind"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=FF6B00" /></a>
   <a href="https://lattes.cnpq.br/7486657973350349"><img src="https://img.shields.io/badge/Lattes-0A0A0A?style=for-the-badge&logo=googlescholar&logoColor=FF6B00" /></a>
+  <a href="https://open.spotify.com/user/31b7f7cq7oqybewb6zpdvqrdauoe"><img src="https://img.shields.io/badge/Spotify-0A0A0A?style=for-the-badge&logo=spotify&logoColor=FF6B00" /></a>
 </p>
 
 <p align="center">
