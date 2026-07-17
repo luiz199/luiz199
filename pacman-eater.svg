@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="130" viewBox="0 0 640 130">
   <defs>
     <style>
       @keyframes movePacman {
         0% { transform: translateX(-50px); }
-        100% { transform: translateX(730px); }
+        100% { transform: translateX(690px); }
       }
       @keyframes chomp {
         0%, 100% { transform: rotate(0deg); }
@@ -12,327 +12,71 @@
         60% { transform: rotate(0deg); }
         80% { transform: rotate(-20deg); }
       }
-      @keyframes eyeBlink {
-        0%, 96%, 100% { opacity: 0; }
-        97%, 99% { opacity: 1; }
-      }
-      @keyframes pulseBorder {
-        0%, 100% { stroke: #FF6B00; stroke-width: 1; }
-        50% { stroke: #FF9A4A; stroke-width: 1.5; }
-      }
       @keyframes ghostWobble {
         0%, 100% { transform: translateY(0); }
         50% { transform: translateY(-5px); }
       }
       @keyframes ghostFlee {
-        0%, 90% { opacity: 1; }
-        91%, 96% { opacity: 0; }
-        97%, 100% { opacity: 1; }
+        0%, 86% { opacity: 1; }
+        87%, 94% { opacity: 0; }
+        95%, 100% { opacity: 1; }
       }
-      @keyframes ghostEye {
-        0%, 100% { transform: translateX(0); }
-        50% { transform: translateX(2px); }
+      @keyframes textFade {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes pulseBorder {
+        0%, 100% { stroke: #FF6B00; stroke-width: 1; }
+        50% { stroke: #FF9A4A; stroke-width: 1.5; }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
       }
       .pacman-group { animation: movePacman 3.5s linear infinite; }
-      .mouth { animation: chomp 0.3s ease-in-out infinite; transform-origin: 0px 75px; }
-      .eye { animation: eyeBlink 1.5s ease-in-out infinite; }
+      .mouth { animation: chomp 0.3s ease-in-out infinite; transform-origin: 0px 65px; }
       .border { animation: pulseBorder 2s ease-in-out infinite; }
       .ghost-visibility { animation: ghostFlee 3.5s steps(1) infinite; }
       .ghost-group { animation: ghostWobble 0.8s ease-in-out infinite; }
-      .ghost-eye { animation: ghostEye 0.4s ease-in-out infinite; }
-
-      .char { fill: #FFB84D; font-family: monospace; font-size: 22px; font-weight: bold; }
-
-      @keyframes e1 { 0%,15%{opacity:1} 16%,100%{opacity:0} }
-      @keyframes e2 { 0%,19%{opacity:1} 20%,100%{opacity:0} }
-      @keyframes e3 { 0%,23%{opacity:1} 24%,100%{opacity:0} }
-      @keyframes e4 { 0%,26%{opacity:1} 27%,100%{opacity:0} }
-      @keyframes e5 { 0%,30%{opacity:1} 31%,100%{opacity:0} }
-      @keyframes e6 { 0%,34%{opacity:1} 35%,100%{opacity:0} }
-      @keyframes e7 { 0%,40%{opacity:1} 41%,100%{opacity:0} }
-      @keyframes e8 { 0%,43%{opacity:1} 44%,100%{opacity:0} }
-      @keyframes e9 { 0%,47%{opacity:1} 48%,100%{opacity:0} }
-      @keyframes e10 { 0%,50%{opacity:1} 51%,100%{opacity:0} }
-      @keyframes e11 { 0%,54%{opacity:1} 55%,100%{opacity:0} }
-      @keyframes e12 { 0%,58%{opacity:1} 59%,100%{opacity:0} }
-      @keyframes e13 { 0%,62%{opacity:1} 63%,100%{opacity:0} }
-      @keyframes e14 { 0%,66%{opacity:1} 67%,100%{opacity:0} }
-      @keyframes e15 { 0%,70%{opacity:1} 71%,100%{opacity:0} }
-      @keyframes e16 { 0%,74%{opacity:1} 75%,100%{opacity:0} }
-      @keyframes e17 { 0%,77%{opacity:1} 78%,100%{opacity:0} }
-      @keyframes e18 { 0%,81%{opacity:1} 82%,100%{opacity:0} }
-      .c1 { animation: e1 3.5s steps(1) infinite; }
-      .c2 { animation: e2 3.5s steps(1) infinite; }
-      .c3 { animation: e3 3.5s steps(1) infinite; }
-      .c4 { animation: e4 3.5s steps(1) infinite; }
-      .c5 { animation: e5 3.5s steps(1) infinite; }
-      .c6 { animation: e6 3.5s steps(1) infinite; }
-      .c7 { animation: e7 3.5s steps(1) infinite; }
-      .c8 { animation: e8 3.5s steps(1) infinite; }
-      .c9 { animation: e9 3.5s steps(1) infinite; }
-      .c10 { animation: e10 3.5s steps(1) infinite; }
-      .c11 { animation: e11 3.5s steps(1) infinite; }
-      .c12 { animation: e12 3.5s steps(1) infinite; }
-      .c13 { animation: e13 3.5s steps(1) infinite; }
-      .c14 { animation: e14 3.5s steps(1) infinite; }
-      .c15 { animation: e15 3.5s steps(1) infinite; }
-      .c16 { animation: e16 3.5s steps(1) infinite; }
-      .c17 { animation: e17 3.5s steps(1) infinite; }
-      .c18 { animation: e18 3.5s steps(1) infinite; }
-
-      @keyframes t1 { 0%,10%{opacity:1} 10.01%,100%{opacity:0} }
-      @keyframes t2 { 10%,20%{opacity:1} 20.01%,100%,0%,9.99%{opacity:0} }
-      @keyframes t3 { 20%,30%{opacity:1} 30.01%,100%,0%,19.99%{opacity:0} }
-      @keyframes t4 { 30%,40%{opacity:1} 40.01%,100%,0%,29.99%{opacity:0} }
-      @keyframes t5 { 40%,50%{opacity:1} 50.01%,100%,0%,39.99%{opacity:0} }
-      @keyframes t6 { 50%,60%{opacity:1} 60.01%,100%,0%,49.99%{opacity:0} }
-      @keyframes t7 { 60%,70%{opacity:1} 70.01%,100%,0%,59.99%{opacity:0} }
-      @keyframes t8 { 70%,80%{opacity:1} 80.01%,100%,0%,69.99%{opacity:0} }
-      @keyframes t9 { 80%,90%{opacity:1} 90.01%,100%,0%,79.99%{opacity:0} }
-      @keyframes t10 { 90%,100%{opacity:1} 0%,89.99%{opacity:0} }
-      .s1 { animation: t1 35s steps(1) infinite; }
-      .s2 { animation: t2 35s steps(1) infinite; }
-      .s3 { animation: t3 35s steps(1) infinite; }
-      .s4 { animation: t4 35s steps(1) infinite; }
-      .s5 { animation: t5 35s steps(1) infinite; }
-      .s6 { animation: t6 35s steps(1) infinite; }
-      .s7 { animation: t7 35s steps(1) infinite; }
-      .s8 { animation: t8 35s steps(1) infinite; }
-      .s9 { animation: t9 35s steps(1) infinite; }
-      .s10 { animation: t10 35s steps(1) infinite; }
+      .text-blink { animation: textFade 1.5s ease-in-out infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+      .dot { fill: #FFB84D; }
     </style>
   </defs>
 
-  <rect x="3" y="3" width="634" height="144" rx="8" fill="#0A0A0A" class="border"/>
-  <line x1="10" y1="108" x2="630" y2="108" stroke="#222" stroke-width="2"/>
+  <rect x="3" y="3" width="634" height="124" rx="8" fill="#0A0A0A" class="border"/>
+  <line x1="10" y1="98" x2="630" y2="98" stroke="#222" stroke-width="2"/>
 
-  <g class="s1">
-    <text x="77" y="80" class="char c1">S</text>
-    <text x="104" y="80" class="char c2">Y</text>
-    <text x="131" y="80" class="char c3">S</text>
-    <text x="158" y="80" class="char c4">T</text>
-    <text x="185" y="80" class="char c5">E</text>
-    <text x="212" y="80" class="char c6">M</text>
-    <text x="257" y="80" class="char c7">B</text>
-    <text x="284" y="80" class="char c8">O</text>
-    <text x="311" y="80" class="char c9">O</text>
-    <text x="338" y="80" class="char c10">T</text>
-    <text x="365" y="80" class="char c11">I</text>
-    <text x="392" y="80" class="char c12">N</text>
-    <text x="419" y="80" class="char c13">G</text>
-    <text x="455" y="80" class="char c14">.</text>
-    <text x="482" y="80" class="char c15">.</text>
-    <text x="509" y="80" class="char c16">.</text>
-    <text x="536" y="80" class="char c17">.</text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
+  <circle class="dot" cx="80" cy="65" r="5"/>
+  <circle class="dot" cx="130" cy="65" r="5"/>
+  <circle class="dot" cx="180" cy="65" r="5"/>
+  <circle class="dot" cx="230" cy="65" r="5"/>
+  <circle class="dot" cx="280" cy="65" r="5"/>
+  <circle class="dot" cx="330" cy="65" r="5"/>
+  <circle class="dot" cx="380" cy="65" r="5"/>
+  <circle class="dot" cx="430" cy="65" r="5"/>
+  <circle class="dot" cx="480" cy="65" r="5"/>
+  <circle class="dot" cx="530" cy="65" r="5"/>
 
-  <g class="s2">
-    <text x="77" y="80" class="char c1">C</text>
-    <text x="104" y="80" class="char c2">O</text>
-    <text x="131" y="80" class="char c3">M</text>
-    <text x="158" y="80" class="char c4">P</text>
-    <text x="185" y="80" class="char c5">U</text>
-    <text x="212" y="80" class="char c6">T</text>
-    <text x="257" y="80" class="char c7">E</text>
-    <text x="284" y="80" class="char c8">R</text>
-    <text x="311" y="80" class="char c9"></text>
-    <text x="338" y="80" class="char c10">S</text>
-    <text x="365" y="80" class="char c11">C</text>
-    <text x="392" y="80" class="char c12">I</text>
-    <text x="419" y="80" class="char c13">E</text>
-    <text x="455" y="80" class="char c14">N</text>
-    <text x="482" y="80" class="char c15">T</text>
-    <text x="509" y="80" class="char c16">I</text>
-    <text x="536" y="80" class="char c17">S</text>
-    <text x="563" y="80" class="char c18">T</text>
-  </g>
-
-  <g class="s3">
-    <text x="77" y="80" class="char c1">A</text>
-    <text x="104" y="80" class="char c2">I</text>
-    <text x="131" y="80" class="char c3"></text>
-    <text x="158" y="80" class="char c4">E</text>
-    <text x="185" y="80" class="char c5">N</text>
-    <text x="212" y="80" class="char c6">G</text>
-    <text x="257" y="80" class="char c7">I</text>
-    <text x="284" y="80" class="char c8">N</text>
-    <text x="311" y="80" class="char c9">E</text>
-    <text x="338" y="80" class="char c10">E</text>
-    <text x="365" y="80" class="char c11">R</text>
-    <text x="392" y="80" class="char c12"></text>
-    <text x="419" y="80" class="char c13">R</text>
-    <text x="455" y="80" class="char c14">E</text>
-    <text x="482" y="80" class="char c15">A</text>
-    <text x="509" y="80" class="char c16">D</text>
-    <text x="536" y="80" class="char c17">Y</text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
-
-  <g class="s4">
-    <text x="77" y="80" class="char c1">F</text>
-    <text x="104" y="80" class="char c2">U</text>
-    <text x="131" y="80" class="char c3">L</text>
-    <text x="158" y="80" class="char c4">L</text>
-    <text x="185" y="80" class="char c5"></text>
-    <text x="212" y="80" class="char c6">S</text>
-    <text x="257" y="80" class="char c7">T</text>
-    <text x="284" y="80" class="char c8">A</text>
-    <text x="311" y="80" class="char c9">C</text>
-    <text x="338" y="80" class="char c10">K</text>
-    <text x="365" y="80" class="char c11"></text>
-    <text x="392" y="80" class="char c12">D</text>
-    <text x="419" y="80" class="char c13">E</text>
-    <text x="455" y="80" class="char c14">V</text>
-    <text x="482" y="80" class="char c15"></text>
-    <text x="509" y="80" class="char c16">O</text>
-    <text x="536" y="80" class="char c17">K</text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
-
-  <g class="s5">
-    <text x="77" y="80" class="char c1">S</text>
-    <text x="104" y="80" class="char c2">Y</text>
-    <text x="131" y="80" class="char c3">S</text>
-    <text x="158" y="80" class="char c4">T</text>
-    <text x="185" y="80" class="char c5">E</text>
-    <text x="212" y="80" class="char c6">M</text>
-    <text x="257" y="80" class="char c7"></text>
-    <text x="284" y="80" class="char c8">O</text>
-    <text x="311" y="80" class="char c9">P</text>
-    <text x="338" y="80" class="char c10">E</text>
-    <text x="365" y="80" class="char c11">R</text>
-    <text x="392" y="80" class="char c12">A</text>
-    <text x="419" y="80" class="char c13">T</text>
-    <text x="455" y="80" class="char c14">I</text>
-    <text x="482" y="80" class="char c15">O</text>
-    <text x="509" y="80" class="char c16">N</text>
-    <text x="536" y="80" class="char c17">A</text>
-    <text x="563" y="80" class="char c18">L</text>
-  </g>
-
-  <g class="s6">
-    <text x="77" y="80" class="char c1">D</text>
-    <text x="104" y="80" class="char c2">A</text>
-    <text x="131" y="80" class="char c3">T</text>
-    <text x="158" y="80" class="char c4">A</text>
-    <text x="185" y="80" class="char c5">M</text>
-    <text x="212" y="80" class="char c6">I</text>
-    <text x="257" y="80" class="char c7">N</text>
-    <text x="284" y="80" class="char c8">D</text>
-    <text x="311" y="80" class="char c9"></text>
-    <text x="338" y="80" class="char c10">A</text>
-    <text x="365" y="80" class="char c11">I</text>
-    <text x="392" y="80" class="char c12"></text>
-    <text x="419" y="80" class="char c13">L</text>
-    <text x="455" y="80" class="char c14">I</text>
-    <text x="482" y="80" class="char c15">V</text>
-    <text x="509" y="80" class="char c16">E</text>
-    <text x="536" y="80" class="char c17"></text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
-
-  <g class="s7">
-    <text x="77" y="80" class="char c1">D</text>
-    <text x="104" y="80" class="char c2">A</text>
-    <text x="131" y="80" class="char c3">T</text>
-    <text x="158" y="80" class="char c4">A</text>
-    <text x="185" y="80" class="char c5"></text>
-    <text x="212" y="80" class="char c6">P</text>
-    <text x="257" y="80" class="char c7">I</text>
-    <text x="284" y="80" class="char c8">P</text>
-    <text x="311" y="80" class="char c9">E</text>
-    <text x="338" y="80" class="char c10">L</text>
-    <text x="365" y="80" class="char c11">I</text>
-    <text x="392" y="80" class="char c12">N</text>
-    <text x="419" y="80" class="char c13">E</text>
-    <text x="455" y="80" class="char c14"></text>
-    <text x="482" y="80" class="char c15">O</text>
-    <text x="509" y="80" class="char c16">K</text>
-    <text x="536" y="80" class="char c17"></text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
-
-  <g class="s8">
-    <text x="77" y="80" class="char c1">N</text>
-    <text x="104" y="80" class="char c2">E</text>
-    <text x="131" y="80" class="char c3">U</text>
-    <text x="158" y="80" class="char c4">R</text>
-    <text x="185" y="80" class="char c5">A</text>
-    <text x="212" y="80" class="char c6">L</text>
-    <text x="257" y="80" class="char c7"></text>
-    <text x="284" y="80" class="char c8">N</text>
-    <text x="311" y="80" class="char c9">E</text>
-    <text x="338" y="80" class="char c10">T</text>
-    <text x="365" y="80" class="char c11"></text>
-    <text x="392" y="80" class="char c12">T</text>
-    <text x="419" y="80" class="char c13">R</text>
-    <text x="455" y="80" class="char c14">A</text>
-    <text x="482" y="80" class="char c15">I</text>
-    <text x="509" y="80" class="char c16">N</text>
-    <text x="536" y="80" class="char c17">E</text>
-    <text x="563" y="80" class="char c18">D</text>
-  </g>
-
-  <g class="s9">
-    <text x="77" y="80" class="char c1">C</text>
-    <text x="104" y="80" class="char c2">L</text>
-    <text x="131" y="80" class="char c3">O</text>
-    <text x="158" y="80" class="char c4">U</text>
-    <text x="185" y="80" class="char c5">D</text>
-    <text x="212" y="80" class="char c6"></text>
-    <text x="257" y="80" class="char c7">S</text>
-    <text x="284" y="80" class="char c8">Y</text>
-    <text x="311" y="80" class="char c9">N</text>
-    <text x="338" y="80" class="char c10">C</text>
-    <text x="365" y="80" class="char c11"></text>
-    <text x="392" y="80" class="char c12">O</text>
-    <text x="419" y="80" class="char c13">K</text>
-    <text x="455" y="80" class="char c14"></text>
-    <text x="482" y="80" class="char c15">:</text>
-    <text x="509" y="80" class="char c16">)</text>
-    <text x="536" y="80" class="char c17"></text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
-
-  <g class="s10">
-    <text x="77" y="80" class="char c1">W</text>
-    <text x="104" y="80" class="char c2">E</text>
-    <text x="131" y="80" class="char c3">L</text>
-    <text x="158" y="80" class="char c4">C</text>
-    <text x="185" y="80" class="char c5">O</text>
-    <text x="212" y="80" class="char c6">M</text>
-    <text x="257" y="80" class="char c7">E</text>
-    <text x="284" y="80" class="char c8"></text>
-    <text x="311" y="80" class="char c9">B</text>
-    <text x="338" y="80" class="char c10">A</text>
-    <text x="365" y="80" class="char c11">C</text>
-    <text x="392" y="80" class="char c12">K</text>
-    <text x="419" y="80" class="char c13"></text>
-    <text x="455" y="80" class="char c14">1</text>
-    <text x="482" y="80" class="char c15">9</text>
-    <text x="509" y="80" class="char c16">9</text>
-    <text x="536" y="80" class="char c17">!</text>
-    <text x="563" y="80" class="char c18"></text>
-  </g>
+  <circle cx="580" cy="65" r="10" fill="#FFB84D" opacity="0.4"/>
 
   <g class="ghost-visibility">
     <g class="ghost-group">
-      <path d="M597,60 C597,47 610,37 625,37 C640,37 653,47 653,60 L653,90 L645,83 L637,90 L629,83 L621,90 L613,83 L605,90 L597,83 Z" fill="#FF0000"/>
-      <circle cx="616" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
-      <circle cx="634" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
-      <circle cx="617" cy="56" r="2" fill="#000"/>
-      <circle cx="635" cy="56" r="2" fill="#000"/>
+      <path d="M555,52 C555,39 568,29 583,29 C598,29 611,39 611,52 L611,82 L603,75 L595,82 L587,75 L579,82 L571,75 L563,82 L555,75 Z" fill="#FF0000"/>
+      <circle cx="574" cy="47" r="4" fill="#FFF"/>
+      <circle cx="592" cy="47" r="4" fill="#FFF"/>
+      <circle cx="575" cy="48" r="2" fill="#000"/>
+      <circle cx="593" cy="48" r="2" fill="#000"/>
     </g>
   </g>
 
   <g class="pacman-group">
-    <circle cx="0" cy="75" r="19" fill="#FFD700"/>
-    <circle cx="0" cy="75" r="19" fill="#FF6B00"/>
-    <polygon points="0,75 15,56 15,94" fill="#0A0A0A" class="mouth"/>
-    <circle cx="-7" cy="65" r="3.5" fill="#FFF" class="eye"/>
-    <circle cx="-7" cy="65" r="2" fill="#111" class="eye"/>
+    <circle cx="0" cy="65" r="18" fill="#FFD700"/>
+    <circle cx="0" cy="65" r="18" fill="#FF6B00"/>
+    <polygon points="0,65 14,47 14,83" fill="#0A0A0A" class="mouth"/>
+    <circle cx="-6" cy="56" r="3" fill="#FFF"/>
+    <circle cx="-6" cy="56" r="1.5" fill="#111"/>
   </g>
 
-  <text x="320" y="135" font-family="monospace" font-size="11" fill="#555" text-anchor="middle">10 status lines cycling - Pac-Man eats each one</text>
+  <text x="320" y="118" font-family="monospace" font-size="12" fill="#555" text-anchor="middle" class="text-blink">$ system operational<span class="cursor">_</span></text>
 </svg>
