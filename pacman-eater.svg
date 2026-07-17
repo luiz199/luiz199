@@ -4,7 +4,7 @@
     <style>
       @keyframes movePacman {
         0% { transform: translateX(-50px); }
-        100% { transform: translateX(690px); }
+        100% { transform: translateX(730px); }
       }
       @keyframes chomp {
         0%, 100% { transform: rotate(0deg); }
@@ -25,9 +25,9 @@
         50% { transform: translateY(-5px); }
       }
       @keyframes ghostFlee {
-        0%, 82% { opacity: 1; }
-        83%, 94% { opacity: 0; }
-        95%, 100% { opacity: 1; }
+        0%, 90% { opacity: 1; }
+        91%, 96% { opacity: 0; }
+        97%, 100% { opacity: 1; }
       }
       @keyframes ghostEye {
         0%, 100% { transform: translateX(0); }
@@ -43,24 +43,24 @@
 
       .char { fill: #FFB84D; font-family: monospace; font-size: 22px; font-weight: bold; }
 
-      @keyframes e1 { 0%,11%{opacity:1} 12%,100%{opacity:0} }
-      @keyframes e2 { 0%,15%{opacity:1} 16%,100%{opacity:0} }
-      @keyframes e3 { 0%,19%{opacity:1} 20%,100%{opacity:0} }
-      @keyframes e4 { 0%,22%{opacity:1} 23%,100%{opacity:0} }
-      @keyframes e5 { 0%,26%{opacity:1} 27%,100%{opacity:0} }
-      @keyframes e6 { 0%,30%{opacity:1} 31%,100%{opacity:0} }
-      @keyframes e7 { 0%,34%{opacity:1} 35%,100%{opacity:0} }
-      @keyframes e8 { 0%,38%{opacity:1} 39%,100%{opacity:0} }
-      @keyframes e9 { 0%,42%{opacity:1} 43%,100%{opacity:0} }
-      @keyframes e10 { 0%,46%{opacity:1} 47%,100%{opacity:0} }
-      @keyframes e11 { 0%,50%{opacity:1} 51%,100%{opacity:0} }
-      @keyframes e12 { 0%,54%{opacity:1} 55%,100%{opacity:0} }
-      @keyframes e13 { 0%,58%{opacity:1} 59%,100%{opacity:0} }
-      @keyframes e14 { 0%,62%{opacity:1} 63%,100%{opacity:0} }
-      @keyframes e15 { 0%,66%{opacity:1} 67%,100%{opacity:0} }
-      @keyframes e16 { 0%,70%{opacity:1} 71%,100%{opacity:0} }
-      @keyframes e17 { 0%,74%{opacity:1} 75%,100%{opacity:0} }
-      @keyframes e18 { 0%,78%{opacity:1} 79%,100%{opacity:0} }
+      @keyframes e1 { 0%,15%{opacity:1} 16%,100%{opacity:0} }
+      @keyframes e2 { 0%,19%{opacity:1} 20%,100%{opacity:0} }
+      @keyframes e3 { 0%,23%{opacity:1} 24%,100%{opacity:0} }
+      @keyframes e4 { 0%,26%{opacity:1} 27%,100%{opacity:0} }
+      @keyframes e5 { 0%,30%{opacity:1} 31%,100%{opacity:0} }
+      @keyframes e6 { 0%,34%{opacity:1} 35%,100%{opacity:0} }
+      @keyframes e7 { 0%,40%{opacity:1} 41%,100%{opacity:0} }
+      @keyframes e8 { 0%,43%{opacity:1} 44%,100%{opacity:0} }
+      @keyframes e9 { 0%,47%{opacity:1} 48%,100%{opacity:0} }
+      @keyframes e10 { 0%,50%{opacity:1} 51%,100%{opacity:0} }
+      @keyframes e11 { 0%,54%{opacity:1} 55%,100%{opacity:0} }
+      @keyframes e12 { 0%,58%{opacity:1} 59%,100%{opacity:0} }
+      @keyframes e13 { 0%,62%{opacity:1} 63%,100%{opacity:0} }
+      @keyframes e14 { 0%,66%{opacity:1} 67%,100%{opacity:0} }
+      @keyframes e15 { 0%,70%{opacity:1} 71%,100%{opacity:0} }
+      @keyframes e16 { 0%,74%{opacity:1} 75%,100%{opacity:0} }
+      @keyframes e17 { 0%,77%{opacity:1} 78%,100%{opacity:0} }
+      @keyframes e18 { 0%,81%{opacity:1} 82%,100%{opacity:0} }
       .c1 { animation: e1 3.5s steps(1) infinite; }
       .c2 { animation: e2 3.5s steps(1) infinite; }
       .c3 { animation: e3 3.5s steps(1) infinite; }
@@ -107,222 +107,222 @@
   <line x1="10" y1="108" x2="630" y2="108" stroke="#222" stroke-width="2"/>
 
   <g class="s1">
-    <text x="36" y="80" class="char c1">S</text>
-    <text x="63" y="80" class="char c2">Y</text>
-    <text x="90" y="80" class="char c3">S</text>
-    <text x="117" y="80" class="char c4">T</text>
-    <text x="144" y="80" class="char c5">E</text>
-    <text x="171" y="80" class="char c6">M</text>
-    <text x="216" y="80" class="char c7">B</text>
-    <text x="243" y="80" class="char c8">O</text>
-    <text x="270" y="80" class="char c9">O</text>
-    <text x="297" y="80" class="char c10">T</text>
-    <text x="324" y="80" class="char c11">I</text>
-    <text x="351" y="80" class="char c12">N</text>
-    <text x="378" y="80" class="char c13">G</text>
-    <text x="414" y="80" class="char c14">.</text>
-    <text x="441" y="80" class="char c15">.</text>
-    <text x="468" y="80" class="char c16">.</text>
-    <text x="495" y="80" class="char c17">.</text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">S</text>
+    <text x="104" y="80" class="char c2">Y</text>
+    <text x="131" y="80" class="char c3">S</text>
+    <text x="158" y="80" class="char c4">T</text>
+    <text x="185" y="80" class="char c5">E</text>
+    <text x="212" y="80" class="char c6">M</text>
+    <text x="257" y="80" class="char c7">B</text>
+    <text x="284" y="80" class="char c8">O</text>
+    <text x="311" y="80" class="char c9">O</text>
+    <text x="338" y="80" class="char c10">T</text>
+    <text x="365" y="80" class="char c11">I</text>
+    <text x="392" y="80" class="char c12">N</text>
+    <text x="419" y="80" class="char c13">G</text>
+    <text x="455" y="80" class="char c14">.</text>
+    <text x="482" y="80" class="char c15">.</text>
+    <text x="509" y="80" class="char c16">.</text>
+    <text x="536" y="80" class="char c17">.</text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="s2">
-    <text x="36" y="80" class="char c1">C</text>
-    <text x="63" y="80" class="char c2">O</text>
-    <text x="90" y="80" class="char c3">M</text>
-    <text x="117" y="80" class="char c4">P</text>
-    <text x="144" y="80" class="char c5">U</text>
-    <text x="171" y="80" class="char c6">T</text>
-    <text x="216" y="80" class="char c7">E</text>
-    <text x="243" y="80" class="char c8">R</text>
-    <text x="270" y="80" class="char c9"></text>
-    <text x="297" y="80" class="char c10">S</text>
-    <text x="324" y="80" class="char c11">C</text>
-    <text x="351" y="80" class="char c12">I</text>
-    <text x="378" y="80" class="char c13">E</text>
-    <text x="414" y="80" class="char c14">N</text>
-    <text x="441" y="80" class="char c15">T</text>
-    <text x="468" y="80" class="char c16">I</text>
-    <text x="495" y="80" class="char c17">S</text>
-    <text x="522" y="80" class="char c18">T</text>
+    <text x="77" y="80" class="char c1">C</text>
+    <text x="104" y="80" class="char c2">O</text>
+    <text x="131" y="80" class="char c3">M</text>
+    <text x="158" y="80" class="char c4">P</text>
+    <text x="185" y="80" class="char c5">U</text>
+    <text x="212" y="80" class="char c6">T</text>
+    <text x="257" y="80" class="char c7">E</text>
+    <text x="284" y="80" class="char c8">R</text>
+    <text x="311" y="80" class="char c9"></text>
+    <text x="338" y="80" class="char c10">S</text>
+    <text x="365" y="80" class="char c11">C</text>
+    <text x="392" y="80" class="char c12">I</text>
+    <text x="419" y="80" class="char c13">E</text>
+    <text x="455" y="80" class="char c14">N</text>
+    <text x="482" y="80" class="char c15">T</text>
+    <text x="509" y="80" class="char c16">I</text>
+    <text x="536" y="80" class="char c17">S</text>
+    <text x="563" y="80" class="char c18">T</text>
   </g>
 
   <g class="s3">
-    <text x="36" y="80" class="char c1">A</text>
-    <text x="63" y="80" class="char c2">I</text>
-    <text x="90" y="80" class="char c3"></text>
-    <text x="117" y="80" class="char c4">E</text>
-    <text x="144" y="80" class="char c5">N</text>
-    <text x="171" y="80" class="char c6">G</text>
-    <text x="216" y="80" class="char c7">I</text>
-    <text x="243" y="80" class="char c8">N</text>
-    <text x="270" y="80" class="char c9">E</text>
-    <text x="297" y="80" class="char c10">E</text>
-    <text x="324" y="80" class="char c11">R</text>
-    <text x="351" y="80" class="char c12"></text>
-    <text x="378" y="80" class="char c13">R</text>
-    <text x="414" y="80" class="char c14">E</text>
-    <text x="441" y="80" class="char c15">A</text>
-    <text x="468" y="80" class="char c16">D</text>
-    <text x="495" y="80" class="char c17">Y</text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">A</text>
+    <text x="104" y="80" class="char c2">I</text>
+    <text x="131" y="80" class="char c3"></text>
+    <text x="158" y="80" class="char c4">E</text>
+    <text x="185" y="80" class="char c5">N</text>
+    <text x="212" y="80" class="char c6">G</text>
+    <text x="257" y="80" class="char c7">I</text>
+    <text x="284" y="80" class="char c8">N</text>
+    <text x="311" y="80" class="char c9">E</text>
+    <text x="338" y="80" class="char c10">E</text>
+    <text x="365" y="80" class="char c11">R</text>
+    <text x="392" y="80" class="char c12"></text>
+    <text x="419" y="80" class="char c13">R</text>
+    <text x="455" y="80" class="char c14">E</text>
+    <text x="482" y="80" class="char c15">A</text>
+    <text x="509" y="80" class="char c16">D</text>
+    <text x="536" y="80" class="char c17">Y</text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="s4">
-    <text x="36" y="80" class="char c1">F</text>
-    <text x="63" y="80" class="char c2">U</text>
-    <text x="90" y="80" class="char c3">L</text>
-    <text x="117" y="80" class="char c4">L</text>
-    <text x="144" y="80" class="char c5"></text>
-    <text x="171" y="80" class="char c6">S</text>
-    <text x="216" y="80" class="char c7">T</text>
-    <text x="243" y="80" class="char c8">A</text>
-    <text x="270" y="80" class="char c9">C</text>
-    <text x="297" y="80" class="char c10">K</text>
-    <text x="324" y="80" class="char c11"></text>
-    <text x="351" y="80" class="char c12">D</text>
-    <text x="378" y="80" class="char c13">E</text>
-    <text x="414" y="80" class="char c14">V</text>
-    <text x="441" y="80" class="char c15"></text>
-    <text x="468" y="80" class="char c16">O</text>
-    <text x="495" y="80" class="char c17">K</text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">F</text>
+    <text x="104" y="80" class="char c2">U</text>
+    <text x="131" y="80" class="char c3">L</text>
+    <text x="158" y="80" class="char c4">L</text>
+    <text x="185" y="80" class="char c5"></text>
+    <text x="212" y="80" class="char c6">S</text>
+    <text x="257" y="80" class="char c7">T</text>
+    <text x="284" y="80" class="char c8">A</text>
+    <text x="311" y="80" class="char c9">C</text>
+    <text x="338" y="80" class="char c10">K</text>
+    <text x="365" y="80" class="char c11"></text>
+    <text x="392" y="80" class="char c12">D</text>
+    <text x="419" y="80" class="char c13">E</text>
+    <text x="455" y="80" class="char c14">V</text>
+    <text x="482" y="80" class="char c15"></text>
+    <text x="509" y="80" class="char c16">O</text>
+    <text x="536" y="80" class="char c17">K</text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="s5">
-    <text x="36" y="80" class="char c1">S</text>
-    <text x="63" y="80" class="char c2">Y</text>
-    <text x="90" y="80" class="char c3">S</text>
-    <text x="117" y="80" class="char c4">T</text>
-    <text x="144" y="80" class="char c5">E</text>
-    <text x="171" y="80" class="char c6">M</text>
-    <text x="216" y="80" class="char c7"></text>
-    <text x="243" y="80" class="char c8">O</text>
-    <text x="270" y="80" class="char c9">P</text>
-    <text x="297" y="80" class="char c10">E</text>
-    <text x="324" y="80" class="char c11">R</text>
-    <text x="351" y="80" class="char c12">A</text>
-    <text x="378" y="80" class="char c13">T</text>
-    <text x="414" y="80" class="char c14">I</text>
-    <text x="441" y="80" class="char c15">O</text>
-    <text x="468" y="80" class="char c16">N</text>
-    <text x="495" y="80" class="char c17">A</text>
-    <text x="522" y="80" class="char c18">L</text>
+    <text x="77" y="80" class="char c1">S</text>
+    <text x="104" y="80" class="char c2">Y</text>
+    <text x="131" y="80" class="char c3">S</text>
+    <text x="158" y="80" class="char c4">T</text>
+    <text x="185" y="80" class="char c5">E</text>
+    <text x="212" y="80" class="char c6">M</text>
+    <text x="257" y="80" class="char c7"></text>
+    <text x="284" y="80" class="char c8">O</text>
+    <text x="311" y="80" class="char c9">P</text>
+    <text x="338" y="80" class="char c10">E</text>
+    <text x="365" y="80" class="char c11">R</text>
+    <text x="392" y="80" class="char c12">A</text>
+    <text x="419" y="80" class="char c13">T</text>
+    <text x="455" y="80" class="char c14">I</text>
+    <text x="482" y="80" class="char c15">O</text>
+    <text x="509" y="80" class="char c16">N</text>
+    <text x="536" y="80" class="char c17">A</text>
+    <text x="563" y="80" class="char c18">L</text>
   </g>
 
   <g class="s6">
-    <text x="36" y="80" class="char c1">D</text>
-    <text x="63" y="80" class="char c2">A</text>
-    <text x="90" y="80" class="char c3">T</text>
-    <text x="117" y="80" class="char c4">A</text>
-    <text x="144" y="80" class="char c5">M</text>
-    <text x="171" y="80" class="char c6">I</text>
-    <text x="216" y="80" class="char c7">N</text>
-    <text x="243" y="80" class="char c8">D</text>
-    <text x="270" y="80" class="char c9"></text>
-    <text x="297" y="80" class="char c10">A</text>
-    <text x="324" y="80" class="char c11">I</text>
-    <text x="351" y="80" class="char c12"></text>
-    <text x="378" y="80" class="char c13">L</text>
-    <text x="414" y="80" class="char c14">I</text>
-    <text x="441" y="80" class="char c15">V</text>
-    <text x="468" y="80" class="char c16">E</text>
-    <text x="495" y="80" class="char c17"></text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">D</text>
+    <text x="104" y="80" class="char c2">A</text>
+    <text x="131" y="80" class="char c3">T</text>
+    <text x="158" y="80" class="char c4">A</text>
+    <text x="185" y="80" class="char c5">M</text>
+    <text x="212" y="80" class="char c6">I</text>
+    <text x="257" y="80" class="char c7">N</text>
+    <text x="284" y="80" class="char c8">D</text>
+    <text x="311" y="80" class="char c9"></text>
+    <text x="338" y="80" class="char c10">A</text>
+    <text x="365" y="80" class="char c11">I</text>
+    <text x="392" y="80" class="char c12"></text>
+    <text x="419" y="80" class="char c13">L</text>
+    <text x="455" y="80" class="char c14">I</text>
+    <text x="482" y="80" class="char c15">V</text>
+    <text x="509" y="80" class="char c16">E</text>
+    <text x="536" y="80" class="char c17"></text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="s7">
-    <text x="36" y="80" class="char c1">D</text>
-    <text x="63" y="80" class="char c2">A</text>
-    <text x="90" y="80" class="char c3">T</text>
-    <text x="117" y="80" class="char c4">A</text>
-    <text x="144" y="80" class="char c5"></text>
-    <text x="171" y="80" class="char c6">P</text>
-    <text x="216" y="80" class="char c7">I</text>
-    <text x="243" y="80" class="char c8">P</text>
-    <text x="270" y="80" class="char c9">E</text>
-    <text x="297" y="80" class="char c10">L</text>
-    <text x="324" y="80" class="char c11">I</text>
-    <text x="351" y="80" class="char c12">N</text>
-    <text x="378" y="80" class="char c13">E</text>
-    <text x="414" y="80" class="char c14"></text>
-    <text x="441" y="80" class="char c15">O</text>
-    <text x="468" y="80" class="char c16">K</text>
-    <text x="495" y="80" class="char c17"></text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">D</text>
+    <text x="104" y="80" class="char c2">A</text>
+    <text x="131" y="80" class="char c3">T</text>
+    <text x="158" y="80" class="char c4">A</text>
+    <text x="185" y="80" class="char c5"></text>
+    <text x="212" y="80" class="char c6">P</text>
+    <text x="257" y="80" class="char c7">I</text>
+    <text x="284" y="80" class="char c8">P</text>
+    <text x="311" y="80" class="char c9">E</text>
+    <text x="338" y="80" class="char c10">L</text>
+    <text x="365" y="80" class="char c11">I</text>
+    <text x="392" y="80" class="char c12">N</text>
+    <text x="419" y="80" class="char c13">E</text>
+    <text x="455" y="80" class="char c14"></text>
+    <text x="482" y="80" class="char c15">O</text>
+    <text x="509" y="80" class="char c16">K</text>
+    <text x="536" y="80" class="char c17"></text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="s8">
-    <text x="36" y="80" class="char c1">N</text>
-    <text x="63" y="80" class="char c2">E</text>
-    <text x="90" y="80" class="char c3">U</text>
-    <text x="117" y="80" class="char c4">R</text>
-    <text x="144" y="80" class="char c5">A</text>
-    <text x="171" y="80" class="char c6">L</text>
-    <text x="216" y="80" class="char c7"></text>
-    <text x="243" y="80" class="char c8">N</text>
-    <text x="270" y="80" class="char c9">E</text>
-    <text x="297" y="80" class="char c10">T</text>
-    <text x="324" y="80" class="char c11"></text>
-    <text x="351" y="80" class="char c12">T</text>
-    <text x="378" y="80" class="char c13">R</text>
-    <text x="414" y="80" class="char c14">A</text>
-    <text x="441" y="80" class="char c15">I</text>
-    <text x="468" y="80" class="char c16">N</text>
-    <text x="495" y="80" class="char c17">E</text>
-    <text x="522" y="80" class="char c18">D</text>
+    <text x="77" y="80" class="char c1">N</text>
+    <text x="104" y="80" class="char c2">E</text>
+    <text x="131" y="80" class="char c3">U</text>
+    <text x="158" y="80" class="char c4">R</text>
+    <text x="185" y="80" class="char c5">A</text>
+    <text x="212" y="80" class="char c6">L</text>
+    <text x="257" y="80" class="char c7"></text>
+    <text x="284" y="80" class="char c8">N</text>
+    <text x="311" y="80" class="char c9">E</text>
+    <text x="338" y="80" class="char c10">T</text>
+    <text x="365" y="80" class="char c11"></text>
+    <text x="392" y="80" class="char c12">T</text>
+    <text x="419" y="80" class="char c13">R</text>
+    <text x="455" y="80" class="char c14">A</text>
+    <text x="482" y="80" class="char c15">I</text>
+    <text x="509" y="80" class="char c16">N</text>
+    <text x="536" y="80" class="char c17">E</text>
+    <text x="563" y="80" class="char c18">D</text>
   </g>
 
   <g class="s9">
-    <text x="36" y="80" class="char c1">C</text>
-    <text x="63" y="80" class="char c2">L</text>
-    <text x="90" y="80" class="char c3">O</text>
-    <text x="117" y="80" class="char c4">U</text>
-    <text x="144" y="80" class="char c5">D</text>
-    <text x="171" y="80" class="char c6"></text>
-    <text x="216" y="80" class="char c7">S</text>
-    <text x="243" y="80" class="char c8">Y</text>
-    <text x="270" y="80" class="char c9">N</text>
-    <text x="297" y="80" class="char c10">C</text>
-    <text x="324" y="80" class="char c11"></text>
-    <text x="351" y="80" class="char c12">O</text>
-    <text x="378" y="80" class="char c13">K</text>
-    <text x="414" y="80" class="char c14"></text>
-    <text x="441" y="80" class="char c15">:</text>
-    <text x="468" y="80" class="char c16">)</text>
-    <text x="495" y="80" class="char c17"></text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">C</text>
+    <text x="104" y="80" class="char c2">L</text>
+    <text x="131" y="80" class="char c3">O</text>
+    <text x="158" y="80" class="char c4">U</text>
+    <text x="185" y="80" class="char c5">D</text>
+    <text x="212" y="80" class="char c6"></text>
+    <text x="257" y="80" class="char c7">S</text>
+    <text x="284" y="80" class="char c8">Y</text>
+    <text x="311" y="80" class="char c9">N</text>
+    <text x="338" y="80" class="char c10">C</text>
+    <text x="365" y="80" class="char c11"></text>
+    <text x="392" y="80" class="char c12">O</text>
+    <text x="419" y="80" class="char c13">K</text>
+    <text x="455" y="80" class="char c14"></text>
+    <text x="482" y="80" class="char c15">:</text>
+    <text x="509" y="80" class="char c16">)</text>
+    <text x="536" y="80" class="char c17"></text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="s10">
-    <text x="36" y="80" class="char c1">W</text>
-    <text x="63" y="80" class="char c2">E</text>
-    <text x="90" y="80" class="char c3">L</text>
-    <text x="117" y="80" class="char c4">C</text>
-    <text x="144" y="80" class="char c5">O</text>
-    <text x="171" y="80" class="char c6">M</text>
-    <text x="216" y="80" class="char c7">E</text>
-    <text x="243" y="80" class="char c8"></text>
-    <text x="270" y="80" class="char c9">B</text>
-    <text x="297" y="80" class="char c10">A</text>
-    <text x="324" y="80" class="char c11">C</text>
-    <text x="351" y="80" class="char c12">K</text>
-    <text x="378" y="80" class="char c13"></text>
-    <text x="414" y="80" class="char c14">1</text>
-    <text x="441" y="80" class="char c15">9</text>
-    <text x="468" y="80" class="char c16">9</text>
-    <text x="495" y="80" class="char c17">!</text>
-    <text x="522" y="80" class="char c18"></text>
+    <text x="77" y="80" class="char c1">W</text>
+    <text x="104" y="80" class="char c2">E</text>
+    <text x="131" y="80" class="char c3">L</text>
+    <text x="158" y="80" class="char c4">C</text>
+    <text x="185" y="80" class="char c5">O</text>
+    <text x="212" y="80" class="char c6">M</text>
+    <text x="257" y="80" class="char c7">E</text>
+    <text x="284" y="80" class="char c8"></text>
+    <text x="311" y="80" class="char c9">B</text>
+    <text x="338" y="80" class="char c10">A</text>
+    <text x="365" y="80" class="char c11">C</text>
+    <text x="392" y="80" class="char c12">K</text>
+    <text x="419" y="80" class="char c13"></text>
+    <text x="455" y="80" class="char c14">1</text>
+    <text x="482" y="80" class="char c15">9</text>
+    <text x="509" y="80" class="char c16">9</text>
+    <text x="536" y="80" class="char c17">!</text>
+    <text x="563" y="80" class="char c18"></text>
   </g>
 
   <g class="ghost-visibility">
     <g class="ghost-group">
-      <path d="M555,60 C555,47 568,37 583,37 C598,37 611,47 611,60 L611,90 L603,83 L595,90 L587,83 L579,90 L571,83 L563,90 L555,83 Z" fill="#FF0000"/>
-      <circle cx="574" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
-      <circle cx="592" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
-      <circle cx="575" cy="56" r="2" fill="#000"/>
-      <circle cx="593" cy="56" r="2" fill="#000"/>
+      <path d="M597,60 C597,47 610,37 625,37 C640,37 653,47 653,60 L653,90 L645,83 L637,90 L629,83 L621,90 L613,83 L605,90 L597,83 Z" fill="#FF0000"/>
+      <circle cx="616" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
+      <circle cx="634" cy="55" r="4" fill="#FFF" class="ghost-eye"/>
+      <circle cx="617" cy="56" r="2" fill="#000"/>
+      <circle cx="635" cy="56" r="2" fill="#000"/>
     </g>
   </g>
 
