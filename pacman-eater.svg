@@ -21,25 +21,15 @@
         87%, 94% { opacity: 0; }
         95%, 100% { opacity: 1; }
       }
-      @keyframes textFade {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0.3; }
-      }
       @keyframes pulseBorder {
         0%, 100% { stroke: #FF6B00; stroke-width: 1; }
         50% { stroke: #FF9A4A; stroke-width: 1.5; }
-      }
-      @keyframes blink {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
       }
       .pacman-group { animation: movePacman 3.5s linear infinite; }
       .mouth { animation: chomp 0.3s ease-in-out infinite; transform-origin: 0px 65px; }
       .border { animation: pulseBorder 2s ease-in-out infinite; }
       .ghost-visibility { animation: ghostFlee 3.5s steps(1) infinite; }
       .ghost-group { animation: ghostWobble 0.8s ease-in-out infinite; }
-      .text-blink { animation: textFade 1.5s ease-in-out infinite; }
-      .cursor { animation: blink 1s step-end infinite; }
       .dot { fill: #FFB84D; }
     </style>
   </defs>
@@ -78,5 +68,5 @@
     <circle cx="-6" cy="56" r="1.5" fill="#111"/>
   </g>
 
-  <text x="320" y="118" font-family="monospace" font-size="12" fill="#555" text-anchor="middle" class="text-blink">$ system operational<span class="cursor">_</span></text>
+  <text x="320" y="118" font-family="monospace" font-size="13" fill="#FFB84D" text-anchor="middle">$ system operational</text>
 </svg>
