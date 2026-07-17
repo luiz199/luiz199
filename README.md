@@ -28,10 +28,6 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=onedark&column=5&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="trophy">
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=luiz199&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888" alt="streak">
 </p>
 
