@@ -7,22 +7,37 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=FF6B00)](https://luiz199.github.io/professional-systems/portfolio/)
 [![Lattes](https://img.shields.io/badge/Lattes-0A0A0A?style=flat-square&logo=googlescholar&logoColor=FF6B00)](https://lattes.cnpq.br/7486657973350349)
 
+## Counters
+
 ![Followers](https://img.shields.io/github/followers/luiz199?style=for-the-badge&color=FF6B00&label=Followers&labelColor=0A0A0A)
 ![Stars](https://img.shields.io/github/stars/luiz199?style=for-the-badge&color=FF6B00&label=Stars&labelColor=0A0A0A)
 ![Repos](https://img.shields.io/badge/Repos-7-FF6B00?style=for-the-badge&labelColor=0A0A0A)
 ![Activity](https://img.shields.io/github/commit-activity/y/luiz199/luiz199?color=FF6B00&labelColor=0A0A0A&style=for-the-badge&label=Commits)
+![Size](https://img.shields.io/github/repo-size/luiz199/luiz199?color=FF6B00&labelColor=0A0A0A&style=for-the-badge&label=Size&logo=github)
 ![Updated](https://img.shields.io/github/last-commit/luiz199/luiz199?color=FF6B00&labelColor=0A0A0A&style=for-the-badge&label=Updated&logo=github)
 ![Visits](https://komarev.com/ghpvc/?username=luiz199&label=Visits&color=FF6B00&style=for-the-badge&labelColor=0A0A0A)
 
+## Terminal
+
 ![terminal](https://raw.githubusercontent.com/luiz199/luiz199/master/profile-terminal.svg)
 
+## Skills
+
 ![skills](https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,alpinejs,figma,html,css,js,nodejs,python,nestjs,mongodb,git,vercel,github,docker,kubernetes,postgres,prisma,redis,graphql,fastapi,aws,linux,bash,tensorflow,pytorch,rust,go,threejs,vite,firebase,jest,c,cpp&perline=12)
+
+## Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=luiz199&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888" alt="streak">
 </p>
 
+## Recent Activity
+
+<!--RECENT_ACTIVITY--><!--/RECENT_ACTIVITY-->
+
 ---
+
+## Contact
 
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=FF6B00)](mailto:luizhenriquedevsec@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=FF6B00)](https://www.linkedin.com/in/luiz-henrique-souza-da-silva-17252b403)
