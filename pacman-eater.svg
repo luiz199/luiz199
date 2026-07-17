@@ -68,5 +68,6 @@
     <circle cx="-6" cy="56" r="1.5" fill="#111"/>
   </g>
 
-  <text x="320" y="118" font-family="monospace" font-size="13" fill="#FFB84D" text-anchor="middle">$ system operational</text>
+  <rect x="20" y="108" width="600" height="18" rx="3" fill="#151515"/>
+  <text x="30" y="121" font-family="monospace" font-size="12" fill="#FFB84D">$ system operational</text>
 </svg>
