@@ -28,8 +28,22 @@
 ## Stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luiz199&theme=onedark&column=5&no-frame=true&no-bg=true&margin-w=8&margin-h=8" alt="trophy">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=luiz199&theme=dark&background=0A0A0A&border=FF6B00&ring=FF6B00&fire=FF6B00&currStreakNum=FF6B00&sideNums=FF6B00&currStreakLabel=FF6B00&sideLabels=FF6B00&dates=888888" alt="streak">
 </p>
+
+## Projects
+
+[![datamind-weather](https://img.shields.io/badge/datamind--weather-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00&label=Weather&labelColor=0A0A0A)](https://github.com/luiz199/datamind-weather)
+[![aura-ai](https://img.shields.io/badge/aura--ai-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00&label=AI&labelColor=0A0A0A)](https://github.com/luiz199/aura-ai)
+[![professional-systems](https://img.shields.io/badge/professional--systems-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00&label=Systems&labelColor=0A0A0A)](https://github.com/luiz199/professional-systems)
+
+[![mimos-personalizados](https://img.shields.io/badge/mimos--personalizados-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00&label=Mimos&labelColor=0A0A0A)](https://github.com/luiz199/mimos-personalizados)
+[![datamind-school-system](https://img.shields.io/badge/datamind--school--system-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00&label=School&labelColor=0A0A0A)](https://github.com/luiz199/datamind-school-system)
+[![vibe-coding-platform](https://img.shields.io/badge/vibe--coding--platform-0A0A0A?style=for-the-badge&logo=github&logoColor=FF6B00&label=Vibe&labelColor=0A0A0A)](https://github.com/luiz199/vibe-coding-platform)
 
 ## Recent Activity
 

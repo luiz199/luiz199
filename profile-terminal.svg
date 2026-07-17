@@ -11,7 +11,13 @@
       @keyframes loadBar { 0%{width:0} 100%{width:196px} }
       @keyframes loadGlow { 0%,100%{opacity:0.3} 50%{opacity:0.8} }
       @keyframes bounce { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-2px)} }
+      @keyframes titleGlow { 0%,100%{fill:#FF6B00} 33%{fill:#FF9A4A} 66%{fill:#FFB84D} }
+      @keyframes dotPulse { 0%,100%{opacity:0.6;r:6} 50%{opacity:1;r:7} }
       .border-pulse { animation: pulse 2s ease-in-out infinite; }
+      .title-glow { animation: titleGlow 3s ease-in-out infinite; }
+      .dot-pulse { animation: dotPulse 1s ease-in-out infinite; }
+      .dot-pulse2 { animation: dotPulse 1s ease-in-out 0.3s infinite; }
+      .dot-pulse3 { animation: dotPulse 1s ease-in-out 0.6s infinite; }
       .cursor { animation: blink 1s step-end infinite; }
       .scan-line { animation: scan 4s linear infinite; fill:url(#scanGrad); }
       .fade-item { animation: fadeIn 0.5s ease-out forwards; opacity:0; }
@@ -52,11 +58,11 @@
   <rect x="12" y="12" width="616" height="36" rx="10" fill="#151515"/>
   <rect x="12" y="36" width="616" height="12" fill="#151515"/>
 
-  <circle cx="34" cy="30" r="6" fill="#FF5F56"/>
-  <circle cx="56" cy="30" r="6" fill="#FFBD2E"/>
-  <circle cx="78" cy="30" r="6" fill="#27C93F"/>
+  <circle cx="34" cy="30" r="6" fill="#FF5F56" class="dot-pulse"/>
+  <circle cx="56" cy="30" r="6" fill="#FFBD2E" class="dot-pulse2"/>
+  <circle cx="78" cy="30" r="6" fill="#27C93F" class="dot-pulse3"/>
 
-  <text x="60" y="34" font-family="monospace" font-size="11" fill="#444" font-weight="bold">CS-SHELL v2.6.0</text>
+  <text x="60" y="34" font-family="monospace" font-size="11" fill="#444" font-weight="bold" class="title-glow">CS-SHELL v2.6.0</text>
   <text x="320" y="34" font-family="monospace" font-size="12" fill="#555" text-anchor="middle" font-weight="bold">COMPUTER SCIENCE - PROFILE</text>
   <text x="600" y="34" font-family="monospace" font-size="11" fill="#444" text-anchor="end" font-weight="bold">B.Sc. CS</text>
 
